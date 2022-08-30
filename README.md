@@ -4,7 +4,7 @@ The following designs are rough ideations of the possible calculator configurati
 ## Current Parts List
 
 ###### Screen Options
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Screen | Cost | Link |
+| --- | --- | --- |
+| 5.83inch E-Ink | $50.99 | https://www.waveshare.com/5.83inch-e-Paper-HAT-B.htm |
+| |  |
