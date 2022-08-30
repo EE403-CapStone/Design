@@ -18,3 +18,8 @@ The following designs are rough ideations of the possible calculator configurati
 | KSA1M331LFT SPST-NO | $0.91 | https://www.digikey.com/en/products/detail/c-k/KSA1M331LFT/1003897 |
 | Tactile Cap Oval (BLACK) | $0.39 | https://www.digikey.com/en/products/detail/c-k/BTNK0390/559405 |
 | Tactile Cap Oval (YELLOW) | $0.47 | https://www.digikey.com/en/products/detail/c-k/BTNK0390/559405 |
+
+###### Joystick
+| Component | Cost | Link |
+| --- | --- | --- |
+| Mini Analog Thumbstick | $2.50 | https://www.adafruit.com/product/2765?gclid=CjwKCAjw6raYBhB7EiwABge5Kk9TZn8ilWmRzUdasBMNh74FXIZQBJh3K6sDLgbHT71pnA3cYCJrNRoC1E8QAvD_BwE |
