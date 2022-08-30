@@ -12,3 +12,4 @@ The following designs are rough ideations of the possible calculator configurati
 
 ###### Keyboard Parts
 | Component | Cost | Link |
+| --- | --- | --- |
