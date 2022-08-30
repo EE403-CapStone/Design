@@ -13,3 +13,4 @@ The following designs are rough ideations of the possible calculator configurati
 ###### Keyboard Parts
 | Component | Cost | Link |
 | --- | --- | --- |
+| Tactile Cap Oval | $0.39 | https://www.digikey.com/en/products/detail/c-k/BTNK0390/559405 |
