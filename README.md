@@ -11,3 +11,4 @@ The following designs are rough ideations of the possible calculator configurati
 | 5.0" TFT Display | $29.95 | https://www.adafruit.com/product/1680?gclid=CjwKCAjw6raYBhB7EiwABge5KpIjBNxJwfrS_wh7pZuceFnwNBfqfigDe1BW-1x3sddNfEnGwlXLqBoC8hkQAvD_BwE |
 
 ###### Keyboard Parts
+| Component | Cost | Link |
