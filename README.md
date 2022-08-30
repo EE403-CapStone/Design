@@ -14,3 +14,4 @@ The following designs are rough ideations of the possible calculator configurati
 | Component | Cost | Link |
 | --- | --- | --- |
 | Tactile Cap Oval | $0.39 | https://www.digikey.com/en/products/detail/c-k/BTNK0390/559405 |
+| KSA1M331LFT SPST-NO | $0.91 | https://www.digikey.com/en/products/detail/c-k/KSA1M331LFT/1003897 |
