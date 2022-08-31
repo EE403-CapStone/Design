@@ -33,6 +33,9 @@ The following designs are rough ideations of the possible calculator configurati
 # Example Hardware Code
 
 ## Joystick
+The joystick module is an Analog device, comprising of two 10kΩ potentiometers. 
+X & Y will be determined via two analog reading pins on the microcontroller. 
+Pins 34/32/31 are designated ADC pins.
 
 ```
 import board
