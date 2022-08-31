@@ -35,7 +35,7 @@ The following designs are rough ideations of the possible calculator configurati
 ## Joystick
 The joystick module is an Analog device, comprising of two 10kΩ potentiometers. <br />
 X & Y will be determined via two analog reading pins on the microcontroller. <br />
-Pins 34/32/31 are designated ADC pins. <br />
+Pins 34/32/31 are designated ADC pins on RP2040. <br />
 
 ```
 import board
