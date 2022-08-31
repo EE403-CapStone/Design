@@ -33,7 +33,8 @@ The following designs are rough ideations of the possible calculator configurati
 # Example Hardware Code
 
 ## Joystick
-'''
+
+```
 import board
 from analogio import AnalogIn
 import usb_hid
@@ -51,4 +52,4 @@ while True:
     x_offset = filter_joystick_deadzone(xAxis.value) * -1 #Invert axis
     y_offset = filter_joystick_deadzone(yAxis.value)
     mouse.move(x_offset, y_offset, 0)
-'''
+```
