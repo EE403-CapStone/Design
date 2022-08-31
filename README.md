@@ -3,6 +3,11 @@ The following designs are rough ideations of the possible calculator configurati
 
 # Current Parts List
 
+## Single Board Computer
+| Name | Cost | Link |
+| --- | --- | --- |
+| Raspberry Pi Zero | $(FREE) | https://www.raspberrypi.com/products/raspberry-pi-zero/ |
+
 ## Screen 
 | Screen | Cost | Link |
 | --- | --- | --- |
