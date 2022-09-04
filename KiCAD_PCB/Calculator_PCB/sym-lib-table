@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RP2040")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/RP2040/RP2040.lib")(options "")(descr ""))
+  (lib (name "RP2040-2")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/ul_RP2040/KiCAD/2022-04-30_02-22-57/2022-04-30_02-22-57.lib")(options "")(descr ""))
+)
