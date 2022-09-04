@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NCP1117ST33T3G
+D ON SEMICONDUCTOR - NCP1117ST33T3G - IC, LINEAR VOLTAGE REGULATOR
+K
+F http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF
+$ENDCMP
+#
+#End Doc Library
