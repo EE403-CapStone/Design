@@ -18,6 +18,11 @@ The following designs are rough ideations of the possible calculator configurati
 
 ## Keyboard 
 
+###### USB Micro B
+| Component | Cost | Link |
+| --- | --- | --- |
+| 10103594-0001LF | $0.77 | https://www.digikey.com/en/products/detail/amphenol-cs-fci/10103594-0001LF/2350351 |
+
 ###### Switches & Caps
 | Component | Cost | Link |
 | --- | --- | --- |
