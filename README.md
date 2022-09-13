@@ -29,7 +29,8 @@ The following designs are rough ideations of the possible calculator configurati
 | KSA1M331LFT SPST-NO | $0.91 | https://www.digikey.com/en/products/detail/c-k/KSA1M331LFT/1003897 |
 | Tactile Cap Oval (BLACK) | $0.39 | https://www.digikey.com/en/products/detail/c-k/BTNK0390/559405 |
 | Tactile Cap Oval (YELLOW) | $0.47 | https://www.digikey.com/en/products/detail/c-k/BTNK0390/559405 |
-| D-Pad button | $3.22 | https://www.ebay.com/itm/172277895864?chn=ps&var=471098949634&_trkparms=ispr%3D1&amdata=enc%3A1g2-r2qY9RQmMGuBK_2N9zQ0&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&itemid=471098949634_172277895864&targetid=&device=c&mktype=pla&googleloc=9006540&poi=&campaignid=17597089569&mkgroupid=&rlsatarget=&abcId=9300988&merchantid=101643144&gclid=CjwKCAjw1ICZBhAzEiwAFfvFhK96Mun1ZhEUShMPNjYEtQJ4ESmZPGgTPkxQahLbWEiXCBLGKVKFjRoCRpQQAvD_BwE |
+| D-Pad Button(CRED)| $3.22 | https://www.ebay.com/itm/172277895864?chn=ps&var=471098949634&_trkparms=ispr%3D1&amdata=enc%3A1g2-r2qY9RQmMGuBK_2N9zQ0&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&itemid=471098949634_172277895864&targetid=&device=c&mktype=pla&googleloc=9006540&poi=&campaignid=17597089569&mkgroupid=&rlsatarget=&abcId=9300988&merchantid=101643144&gclid=CjwKCAjw1ICZBhAzEiwAFfvFhK96Mun1ZhEUShMPNjYEtQJ4ESmZPGgTPkxQahLbWEiXCBLGKVKFjRoCRpQQAvD_BwE |
+| D-Pad Button(Black) | $3.40 | https://www.ebay.com/itm/182260383344?hash=item2a6f90be70:g:KzUAAOSwFV9XxCYp |
 
 ###### Joystick
 | Component | Cost | Link |
