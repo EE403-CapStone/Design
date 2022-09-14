@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\natha\\Documents\\GitHub\\Design\\KiCAD_PCB\\Calculator_PCB\\Calculator_PCB.kicad_sch")
-    (date "9/14/2022 5:30:31 PM")
+    (date "9/14/2022 5:44:04 PM")
     (tool "Eeschema (6.0.4)")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -526,7 +526,7 @@
       (tstamps "f1c368ce-6340-4721-82cb-f7ee874c3342"))
     (comp (ref "S1")
       (value "PTS810SJK250SMTRLFS")
-      (footprint "KSA1M331LFT_Footprint:KSA1M331LFT")
+      (footprint "NCP1117ST33T3G:SOT230P700X180-4N")
       (fields
         (field (name "DESCRIPTION") "IP40 Black Button Tactile Switch, SPST-NO 50 mA 3mm Surface Mount")
         (field (name "HEIGHT") "mm")
