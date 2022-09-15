@@ -186,7 +186,7 @@
 
   (footprint "Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal" (layer "F.Cu")
     (tedit 5A1DC0BD) (tstamp 01db55fc-f2ab-465b-9525-6186a5d68868)
-    (at 102.02 -20.27)
+    (at 145.707 91.031 180)
     (descr "Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf")
     (tags "USB USB_B USB_micro USB_OTG")
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
@@ -228,39 +228,39 @@
     (fp_line (start -3.775 3.335) (end -3.775 -0.865) (layer "F.Fab") (width 0.12) (tstamp 3b5cbc1a-a418-433a-98a4-47a7af24f33c))
     (fp_line (start 3.725 3.335) (end -3.775 3.335) (layer "F.Fab") (width 0.12) (tstamp baf11baa-495a-4758-bf50-34c5cc6c126d))
     (fp_line (start -2.975 -1.615) (end 3.725 -1.615) (layer "F.Fab") (width 0.12) (tstamp db31c22f-a5d9-430b-a888-8c58335313d6))
-    (pad "1" smd rect (at -1.325 -1.765 90) (size 1.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "1" smd rect (at -1.325 -1.765 270) (size 1.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 53 "VBUS") (pinfunction "VBUS") (pintype "power_out") (tstamp f055be03-112c-40e8-8161-b194faa2fec8))
-    (pad "2" smd rect (at -0.675 -1.765 90) (size 1.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "2" smd rect (at -0.675 -1.765 270) (size 1.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "/USB_D-") (pinfunction "D-") (pintype "bidirectional") (tstamp bb1ca48c-9b80-4152-b297-fca398737a72))
-    (pad "3" smd rect (at -0.025 -1.765 90) (size 1.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "3" smd rect (at -0.025 -1.765 270) (size 1.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 4 "/USB_D+") (pinfunction "D+") (pintype "bidirectional") (tstamp 16a07c45-b12b-43bc-8c79-7178503fc852))
-    (pad "4" smd rect (at 0.625 -1.765 90) (size 1.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "4" smd rect (at 0.625 -1.765 270) (size 1.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 108 "unconnected-(J1-Pad4)") (pinfunction "ID") (pintype "passive+no_connect") (tstamp 97ae7c5c-82d6-4ef2-9c0e-e358781495db))
-    (pad "5" smd rect (at 1.275 -1.765 90) (size 1.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "5" smd rect (at 1.275 -1.765 270) (size 1.65 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "GND") (pinfunction "GND") (pintype "power_out") (tstamp e7ccd444-f96f-4821-ab86-eeba9305f02b))
-    (pad "6" thru_hole oval (at -2.755 1.115 90) (size 1.7 1.35) (drill oval 1.2 0.7) (layers *.Cu *.Mask)
+    (pad "6" thru_hole oval (at -2.755 1.115 270) (size 1.7 1.35) (drill oval 1.2 0.7) (layers *.Cu *.Mask)
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp 2a2ed8ee-c7c8-42c2-bc34-16066c9e9ba9))
-    (pad "6" smd rect (at -0.985 1.385 90) (size 2.5 1.43) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "6" smd rect (at -0.985 1.385 270) (size 2.5 1.43) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp 54d18d59-3d8b-4308-9f78-fbe691e703a6))
-    (pad "6" smd rect (at -2.755 0.185) (size 1.35 2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "6" smd rect (at -2.755 0.185 180) (size 1.35 2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp 63185c31-ad5f-44ac-b17d-b1f042949a09))
-    (pad "6" smd rect (at 2.725 0.185) (size 1.35 2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "6" smd rect (at 2.725 0.185 180) (size 1.35 2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp 76bc5345-9c2c-4403-9e8c-0ed835a41298))
-    (pad "6" thru_hole oval (at 2.395 -1.885 90) (size 1.5 1.1) (drill oval 1.05 0.65) (layers *.Cu *.Mask)
+    (pad "6" thru_hole oval (at 2.395 -1.885 270) (size 1.5 1.1) (drill oval 1.05 0.65) (layers *.Cu *.Mask)
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp 92953769-9748-4e7c-bdff-e199b8fcf9d5))
-    (pad "6" thru_hole oval (at 2.705 1.115 90) (size 1.7 1.35) (drill oval 1.2 0.7) (layers *.Cu *.Mask)
+    (pad "6" thru_hole oval (at 2.705 1.115 270) (size 1.7 1.35) (drill oval 1.2 0.7) (layers *.Cu *.Mask)
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp 9ee01db0-fdb4-4964-b888-2644c5ff6aaa))
-    (pad "6" smd rect (at -2.975 -0.565) (size 1.825 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "6" smd rect (at -2.975 -0.565 180) (size 1.825 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp a9ce2ecb-eff8-45cc-ba2d-4bdf7cc1bce6))
-    (pad "6" thru_hole oval (at -2.445 -1.885 90) (size 1.5 1.1) (drill oval 1.05 0.65) (layers *.Cu *.Mask)
+    (pad "6" thru_hole oval (at -2.445 -1.885 270) (size 1.5 1.1) (drill oval 1.05 0.65) (layers *.Cu *.Mask)
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp bb44cdd4-0aa5-4030-b16d-63916fcf2ec8))
-    (pad "6" smd rect (at 0.935 1.385 90) (size 2.5 1.43) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "6" smd rect (at 0.935 1.385 270) (size 2.5 1.43) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp c2b5bc3c-e2e0-49b8-a901-909f5b519e0b))
-    (pad "6" smd rect (at 2.875 -1.885) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "6" smd rect (at 2.875 -1.885 180) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp c6d5303d-543e-443e-b105-01b30dda091b))
-    (pad "6" smd rect (at 2.975 -0.565) (size 1.825 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "6" smd rect (at 2.975 -0.565 180) (size 1.825 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp d41ebf9e-bf40-42d7-939e-e39262e6f2fc))
-    (pad "6" smd rect (at -2.875 -1.865) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "6" smd rect (at -2.875 -1.865 180) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp fd2deda9-0706-4635-833f-458515e20d4e))
     (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10103594-0001LF_Horizontal.wrl"
       (offset (xyz 0 0 0))
@@ -400,7 +400,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 14758f2c-0a89-459e-9fe3-62e98be9a612)
-    (at 119 72 90)
+    (at 115.76 134.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/98951be1-392c-457b-847c-918f0e17771c")
@@ -449,7 +449,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 184d9b17-7989-4bf6-bdc7-c14950d1c9b4)
-    (at 202.3 64 90)
+    (at 199.06 126.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/5b2cfa35-2b82-437e-8b89-bf1535dd94e5")
@@ -625,7 +625,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 221c625b-dd1e-45a0-9da3-d5a73adb62a9)
-    (at 95.2 56 90)
+    (at 91.96 118.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/832ae783-8154-4f11-99b8-80c5c16fde14")
@@ -845,7 +845,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 2962df97-5876-4d21-af67-140f3e14f642)
-    (at 178.5 56 90)
+    (at 175.26 118.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/f01c3a8f-90b7-4b49-9bde-8d3da6165857")
@@ -937,7 +937,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 29a5d72c-2ec6-4260-b8fd-78a10c094f36)
-    (at 95.2 48 90)
+    (at 91.96 110.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/ea86cc11-be9d-452d-87f6-5ce1008e2886")
@@ -1370,7 +1370,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 3ee5c7da-3722-4755-a34f-5c70e8292b75)
-    (at 95.2 72 90)
+    (at 91.96 134.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/987564d0-91da-4169-b9de-b4079878b6e1")
@@ -1419,7 +1419,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 3f999d1e-51f7-4ac4-a5ae-fe6a5bc3405b)
-    (at 107.1 72 90)
+    (at 103.86 134.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/a290a4e3-db75-46f0-9d95-458ca799eebc")
@@ -1573,7 +1573,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 4611acef-5151-48fe-83d6-67dc7dc8dd35)
-    (at 190.4 48 90)
+    (at 187.16 110.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/a7594259-4758-4b33-96f6-d5e9cb1380fb")
@@ -1622,7 +1622,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 4897e76d-3b7d-4fd1-937f-8eac4dafb851)
-    (at 166.6 56 90)
+    (at 163.36 118.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/00a92609-ace7-4bac-aad2-3a2daa8998b9")
@@ -1671,7 +1671,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 4a60c66b-aa9c-4ed8-bba4-0896699ff23c)
-    (at 107.1 56 90)
+    (at 103.86 118.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/cdcb12b8-a41b-4eee-83ce-303a8894ac46")
@@ -1805,7 +1805,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 4eeb6573-9b3b-4baa-b5f8-bf01bbc58e18)
-    (at 142.8 48 90)
+    (at 139.56 110.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/bf8c85af-4271-4e46-a93a-d6ac7576f82c")
@@ -1896,7 +1896,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 5091e792-8436-4f75-aedf-302a69f67e94)
-    (at 119 64 90)
+    (at 115.76 126.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/d3a235f7-a885-41d1-a83d-53db0fb0eb76")
@@ -1988,7 +1988,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 5b89719f-d8fd-40f0-88a7-0da576cec61b)
-    (at 142.8 72 90)
+    (at 139.56 134.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/2968d992-ec40-4433-836e-1903aa886f82")
@@ -2079,7 +2079,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 5d02a0e8-5a6f-46e4-ade7-79297de98118)
-    (at 119 56 90)
+    (at 115.76 118.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/47e40545-db79-44a6-bdcf-2893ab0afc64")
@@ -2128,7 +2128,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 5edd8bc6-59e5-4804-9a8b-643b70745dec)
-    (at 154.7 64 90)
+    (at 151.46 126.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/36013b2e-8295-4572-9f67-46d3de9dfdae")
@@ -2177,7 +2177,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 610e6af7-a280-41f5-9890-e19e50ef9b43)
-    (at 130.9 72 90)
+    (at 127.66 134.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/ee7a249f-b20f-4b72-8da9-f7ab2283905f")
@@ -2269,7 +2269,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 6db8419c-c9c5-4af8-b17e-83bcbcde9869)
-    (at 190.4 72 90)
+    (at 187.16 134.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/17f3bb6a-df39-4dd8-85b2-072be52e380d")
@@ -2531,7 +2531,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 8134cd83-d5e2-4467-944a-565e965dca31)
-    (at 166.6 72 90)
+    (at 163.36 134.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/99133e12-524b-4dab-9f9b-93850acf7bc2")
@@ -2580,7 +2580,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 82d253da-1a5a-40be-9fe8-3af53f462cdc)
-    (at 130.9 56 90)
+    (at 127.66 118.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/7235af7f-35b4-41bc-a252-0592e0d8828d")
@@ -2757,7 +2757,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 8a31cd82-1f28-4bd7-9c99-fc2a45c9df1b)
-    (at 166.6 48 90)
+    (at 163.36 110.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/b01d9e18-fecb-4e6a-802c-7f5857a9bc86")
@@ -2849,7 +2849,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 8af4026e-1e49-4023-bb84-e966369506cd)
-    (at 95.2 64 90)
+    (at 91.96 126.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/04ed17e2-88ae-4b78-b65c-c78c17b17638")
@@ -2941,7 +2941,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 8db7ee87-259e-4dff-8348-b09c5719a043)
-    (at 202.3 48 90)
+    (at 199.06 110.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/457ec78c-f492-48f9-a342-ec37224b8bda")
@@ -3032,7 +3032,7 @@
 
   (footprint "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBBDD) (tstamp 90db4174-9111-48c3-bae3-4d52f1abc456)
-    (at 113.05 48 90)
+    (at 109.81 110.62 90)
     (descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
@@ -3075,7 +3075,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 919f0231-799e-49ae-ab62-dd81b00f2b9c)
-    (at 154.7 56 90)
+    (at 151.46 118.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/ada9b4e9-7a58-4079-8bd6-0d49f587826a")
@@ -3124,7 +3124,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp 95daf363-731e-494d-90d2-9004b916770b)
-    (at 190.4 56 90)
+    (at 187.16 118.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/9828ebdd-3637-42c5-b8a2-e5bfcf16d08e")
@@ -3427,7 +3427,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp a61892c4-f3fe-4ceb-821e-fbf3b25bc795)
-    (at 178.5 64 90)
+    (at 175.26 126.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/71da44c5-09b4-496b-9270-51dc03e5580c")
@@ -3560,7 +3560,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp aafb9083-314f-45e8-a8fb-2f0c4e2d22a0)
-    (at 154.7 48 90)
+    (at 151.46 110.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/4baa45d5-b5e7-4afe-b5f1-7e626f4e5fb0")
@@ -3652,7 +3652,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp b2cb31b0-8d81-410e-8022-5e3bb192bed9)
-    (at 202.3 56 90)
+    (at 199.06 118.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/84bab85c-5944-45ba-bf9e-9ed520a844f9")
@@ -3743,7 +3743,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp bcef30ba-d347-4b54-a564-95d1024b33a9)
-    (at 178.5 72 90)
+    (at 175.26 134.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/da3313e6-871e-42f8-ae07-9f70b3341d94")
@@ -3923,7 +3923,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp c079a789-9ece-448c-aee9-a19b740b5477)
-    (at 107.1 64 90)
+    (at 103.86 126.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/e33b3ed0-cfee-4f16-8c42-301645071e81")
@@ -3972,7 +3972,7 @@
 
   (footprint "RP2040_minimal:RP2040-QFN-56" (layer "F.Cu")
     (tedit 5EF32B43) (tstamp c1c9c055-decb-4112-9aaa-2f5e31ca0901)
-    (at 144.89 -63.33)
+    (at 145.796 100.711)
     (descr "QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
     (tags "QFN DFN_QFN")
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
@@ -4152,7 +4152,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp c4e18e49-c164-46fd-90db-1436563de5d1)
-    (at 119 48 90)
+    (at 115.76 110.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/d638628f-5ccc-445a-8ac8-7b7469da9f03")
@@ -4201,7 +4201,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp c61277ee-1536-404d-9655-f3d5b2be184c)
-    (at 130.9 48 90)
+    (at 127.66 110.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/134be8e7-55b5-40e1-a014-d83bf62ff251")
@@ -4250,7 +4250,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp c684506b-2179-4a4a-a1aa-6cd857704320)
-    (at 142.8 56 90)
+    (at 139.56 118.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/c1800633-5f63-4a68-b575-498de40f7856")
@@ -4299,7 +4299,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp c6adf4e8-8e2f-4e0b-9a17-78ffc02e67e0)
-    (at 130.9 64 90)
+    (at 127.66 126.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/37e83c80-fe55-47a8-bc13-d635c29a7ebd")
@@ -4348,7 +4348,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp c8c1517a-7bf4-4681-bc6e-3c92b3149b14)
-    (at 107.1 48 90)
+    (at 103.86 110.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/2c66480b-5b37-4fa0-b5cd-cc5c5e88d714")
@@ -4397,7 +4397,7 @@
 
   (footprint "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BBBDD) (tstamp c8cd9500-ddb6-450e-8eff-1b5b627877ec)
-    (at 101.15 48 90)
+    (at 97.91 110.62 90)
     (descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
@@ -4440,7 +4440,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp ce3a99d8-8d4e-493a-beb5-4ae54d4a415f)
-    (at 190.4 64 90)
+    (at 187.16 126.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/a9448f38-3303-48e5-9e98-eaa700febc8c")
@@ -4489,7 +4489,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp cf5f981f-8d0d-4a2c-8ab1-c25cb5dace33)
-    (at 166.6 64 90)
+    (at 163.36 126.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/87e41745-1f78-48b5-80ca-a810eab6a532")
@@ -4710,7 +4710,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp dbc274dc-de99-45f3-9a28-5d3d3786cbe7)
-    (at 154.7 72 90)
+    (at 151.46 134.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/30324f27-b7fc-4f22-9a0c-6c838fa0b648")
@@ -4984,7 +4984,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp f09c4e5d-c6ca-4c02-a8f5-42ceaa7f2ee8)
-    (at 178.5 48 90)
+    (at 175.26 110.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/dee1ada9-3186-4f25-b733-2a8d4963d49a")
@@ -5076,7 +5076,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp f914a13c-ebe6-437e-903b-4d036b6162e1)
-    (at 202.3 72 90)
+    (at 199.06 134.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/7c70ebcd-8991-44f5-bbe9-3b20ce1fa224")
@@ -5211,7 +5211,7 @@
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
     (tedit 0) (tstamp fea51bcd-d1e1-461f-95ec-601bc3ba551a)
-    (at 142.8 64 90)
+    (at 139.56 126.62 90)
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
     (path "/25963d59-c6bc-48b3-8d5f-0218410fa6c6")
@@ -5300,4 +5300,29 @@
     )
   )
 
+  (gr_line (start 152.634 103.124) (end 152.634 72.624) (layer "B.SilkS") (width 0.15) (tstamp 04623b2c-141f-45d5-b606-ca93697b2487))
+  (gr_line (start 196.542 140.716) (end 196.542 80.716) (layer "B.SilkS") (width 0.15) (tstamp 1584c8fa-3039-4079-bc47-1b5b80c5367b))
+  (gr_line (start 94.542 140.716) (end 94.542 80.716) (layer "B.SilkS") (width 0.15) (tstamp 51a43830-14f6-4a46-bf85-57c9e1423de5))
+  (gr_line (start 94.542 140.716) (end 196.542 140.716) (layer "B.SilkS") (width 0.15) (tstamp 5ea7a41f-f860-4daa-a540-9fbd6ef6f536))
+  (gr_line (start 86.634 103.124) (end 86.634 72.624) (layer "B.SilkS") (width 0.15) (tstamp 77579cb8-2a2a-4b3b-b46a-2d485cbe99fc))
+  (gr_line (start 86.507 103.124) (end 152.507 103.124) (layer "B.SilkS") (width 0.15) (tstamp 800ae900-e504-44d1-9915-4a39b31fd276))
+  (gr_line (start 86.634 72.624) (end 152.634 72.624) (layer "B.SilkS") (width 0.15) (tstamp d7745b46-711a-4d08-adf4-5420ad94e1d9))
+  (gr_line (start 94.542 80.716) (end 196.542 80.716) (layer "B.SilkS") (width 0.15) (tstamp ffb50673-07e1-4205-90a4-093bb79a93ea))
+
+  (group "" (id 1b475f7d-c1e4-4d19-a1e3-6361d2931e5d)
+    (members
+      1584c8fa-3039-4079-bc47-1b5b80c5367b
+      51a43830-14f6-4a46-bf85-57c9e1423de5
+      5ea7a41f-f860-4daa-a540-9fbd6ef6f536
+      ffb50673-07e1-4205-90a4-093bb79a93ea
+    )
+  )
+  (group "" (id 35ecc92f-4c27-4227-9bc2-c19cd08f97c5)
+    (members
+      04623b2c-141f-45d5-b606-ca93697b2487
+      77579cb8-2a2a-4b3b-b46a-2d485cbe99fc
+      800ae900-e504-44d1-9915-4a39b31fd276
+      d7745b46-711a-4d08-adf4-5420ad94e1d9
+    )
+  )
 )
