@@ -5300,15 +5300,27 @@
     )
   )
 
-  (gr_line (start 152.634 103.124) (end 152.634 72.624) (layer "B.SilkS") (width 0.15) (tstamp 04623b2c-141f-45d5-b606-ca93697b2487))
-  (gr_line (start 196.542 140.716) (end 196.542 80.716) (layer "B.SilkS") (width 0.15) (tstamp 1584c8fa-3039-4079-bc47-1b5b80c5367b))
-  (gr_line (start 94.542 140.716) (end 94.542 80.716) (layer "B.SilkS") (width 0.15) (tstamp 51a43830-14f6-4a46-bf85-57c9e1423de5))
-  (gr_line (start 94.542 140.716) (end 196.542 140.716) (layer "B.SilkS") (width 0.15) (tstamp 5ea7a41f-f860-4daa-a540-9fbd6ef6f536))
-  (gr_line (start 86.634 103.124) (end 86.634 72.624) (layer "B.SilkS") (width 0.15) (tstamp 77579cb8-2a2a-4b3b-b46a-2d485cbe99fc))
-  (gr_line (start 86.507 103.124) (end 152.507 103.124) (layer "B.SilkS") (width 0.15) (tstamp 800ae900-e504-44d1-9915-4a39b31fd276))
-  (gr_line (start 86.634 72.624) (end 152.634 72.624) (layer "B.SilkS") (width 0.15) (tstamp d7745b46-711a-4d08-adf4-5420ad94e1d9))
-  (gr_line (start 94.542 80.716) (end 196.542 80.716) (layer "B.SilkS") (width 0.15) (tstamp ffb50673-07e1-4205-90a4-093bb79a93ea))
+  (gr_line (start 158.3 68.9) (end 158.3 38.4) (layer "B.SilkS") (width 0.15) (tstamp 04623b2c-141f-45d5-b606-ca93697b2487))
+  (gr_line (start 273 87.8) (end 273 27.8) (layer "B.SilkS") (width 0.15) (tstamp 1584c8fa-3039-4079-bc47-1b5b80c5367b))
+  (gr_line (start 171 87.8) (end 171 27.8) (layer "B.SilkS") (width 0.15) (tstamp 51a43830-14f6-4a46-bf85-57c9e1423de5))
+  (gr_line (start 171 87.8) (end 273 87.8) (layer "B.SilkS") (width 0.15) (tstamp 5ea7a41f-f860-4daa-a540-9fbd6ef6f536))
+  (gr_line (start 92.3 68.9) (end 92.3 38.4) (layer "B.SilkS") (width 0.15) (tstamp 77579cb8-2a2a-4b3b-b46a-2d485cbe99fc))
+  (gr_line (start 92.173 68.9) (end 158.173 68.9) (layer "B.SilkS") (width 0.15) (tstamp 800ae900-e504-44d1-9915-4a39b31fd276))
+  (gr_line (start 92.3 38.4) (end 158.3 38.4) (layer "B.SilkS") (width 0.15) (tstamp d7745b46-711a-4d08-adf4-5420ad94e1d9))
+  (gr_line (start 171 27.8) (end 273 27.8) (layer "B.SilkS") (width 0.15) (tstamp ffb50673-07e1-4205-90a4-093bb79a93ea))
+  (gr_text "Raspberry Pi Zero" (at 125.2365 53.65) (layer "B.SilkS") (tstamp 13dfcd3b-0f2c-4213-9f4e-8f701fa294b3)
+    (effects (font (size 4 4) (thickness 0.15)))
+  )
+  (gr_text "Display" (at 222 57.8) (layer "B.SilkS") (tstamp 225fc398-2971-432f-ba6d-b4d5757d1c6e)
+    (effects (font (size 6 6) (thickness 0.15)))
+  )
 
+  (group "" (id 03c52c21-9f81-4a19-9890-eb9cfb396402)
+    (members
+      13dfcd3b-0f2c-4213-9f4e-8f701fa294b3
+      35ecc92f-4c27-4227-9bc2-c19cd08f97c5
+    )
+  )
   (group "" (id 1b475f7d-c1e4-4d19-a1e3-6361d2931e5d)
     (members
       1584c8fa-3039-4079-bc47-1b5b80c5367b
@@ -5323,6 +5335,12 @@
       77579cb8-2a2a-4b3b-b46a-2d485cbe99fc
       800ae900-e504-44d1-9915-4a39b31fd276
       d7745b46-711a-4d08-adf4-5420ad94e1d9
+    )
+  )
+  (group "" (id e0c15636-d057-4570-9ad9-688d870adc71)
+    (members
+      1b475f7d-c1e4-4d19-a1e3-6361d2931e5d
+      225fc398-2971-432f-ba6d-b4d5757d1c6e
     )
   )
 )
