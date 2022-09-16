@@ -186,7 +186,7 @@
 
   (footprint "Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal" (layer "F.Cu")
     (tedit 5A1DC0BD) (tstamp 01db55fc-f2ab-465b-9525-6186a5d68868)
-    (at 145.707 91.031 180)
+    (at 147.711 -39.68 180)
     (descr "Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf")
     (tags "USB USB_B USB_micro USB_OTG")
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
@@ -3972,7 +3972,7 @@
 
   (footprint "RP2040_minimal:RP2040-QFN-56" (layer "F.Cu")
     (tedit 5EF32B43) (tstamp c1c9c055-decb-4112-9aaa-2f5e31ca0901)
-    (at 145.796 100.711)
+    (at 98 95.3)
     (descr "QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py")
     (tags "QFN DFN_QFN")
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
@@ -5300,25 +5300,38 @@
     )
   )
 
-  (gr_line (start 158.3 68.9) (end 158.3 38.4) (layer "B.SilkS") (width 0.15) (tstamp 04623b2c-141f-45d5-b606-ca93697b2487))
-  (gr_line (start 273 87.8) (end 273 27.8) (layer "B.SilkS") (width 0.15) (tstamp 1584c8fa-3039-4079-bc47-1b5b80c5367b))
-  (gr_line (start 171 87.8) (end 171 27.8) (layer "B.SilkS") (width 0.15) (tstamp 51a43830-14f6-4a46-bf85-57c9e1423de5))
-  (gr_line (start 171 87.8) (end 273 87.8) (layer "B.SilkS") (width 0.15) (tstamp 5ea7a41f-f860-4daa-a540-9fbd6ef6f536))
-  (gr_line (start 92.3 68.9) (end 92.3 38.4) (layer "B.SilkS") (width 0.15) (tstamp 77579cb8-2a2a-4b3b-b46a-2d485cbe99fc))
-  (gr_line (start 92.173 68.9) (end 158.173 68.9) (layer "B.SilkS") (width 0.15) (tstamp 800ae900-e504-44d1-9915-4a39b31fd276))
-  (gr_line (start 92.3 38.4) (end 158.3 38.4) (layer "B.SilkS") (width 0.15) (tstamp d7745b46-711a-4d08-adf4-5420ad94e1d9))
-  (gr_line (start 171 27.8) (end 273 27.8) (layer "B.SilkS") (width 0.15) (tstamp ffb50673-07e1-4205-90a4-093bb79a93ea))
-  (gr_text "Raspberry Pi Zero" (at 125.2365 53.65) (layer "B.SilkS") (tstamp 13dfcd3b-0f2c-4213-9f4e-8f701fa294b3)
+  (gr_line (start 178.1 101.05) (end 178.1 70.55) (layer "B.SilkS") (width 0.15) (tstamp 04623b2c-141f-45d5-b606-ca93697b2487))
+  (gr_line (start 272.4 55.3) (end 272.4 -4.7) (layer "B.SilkS") (width 0.15) (tstamp 1584c8fa-3039-4079-bc47-1b5b80c5367b))
+  (gr_line (start 208.2 132.5) (end 238.2 132.5) (layer "B.SilkS") (width 0.15) (tstamp 3c398f38-0d9a-4978-b0a3-bd2faaea9705))
+  (gr_line (start 170.4 55.3) (end 170.4 -4.7) (layer "B.SilkS") (width 0.15) (tstamp 51a43830-14f6-4a46-bf85-57c9e1423de5))
+  (gr_line (start 208.2 97.5) (end 238.2 97.5) (layer "B.SilkS") (width 0.15) (tstamp 5dfb8f93-e4f6-47ec-b627-4e5b0e548ab4))
+  (gr_line (start 170.4 55.3) (end 272.4 55.3) (layer "B.SilkS") (width 0.15) (tstamp 5ea7a41f-f860-4daa-a540-9fbd6ef6f536))
+  (gr_line (start 112.1 101.05) (end 112.1 70.55) (layer "B.SilkS") (width 0.15) (tstamp 77579cb8-2a2a-4b3b-b46a-2d485cbe99fc))
+  (gr_line (start 111.973 101.05) (end 177.973 101.05) (layer "B.SilkS") (width 0.15) (tstamp 800ae900-e504-44d1-9915-4a39b31fd276))
+  (gr_line (start 112.1 70.55) (end 178.1 70.55) (layer "B.SilkS") (width 0.15) (tstamp d7745b46-711a-4d08-adf4-5420ad94e1d9))
+  (gr_line (start 238.2 97.5) (end 238.2 132.5) (layer "B.SilkS") (width 0.15) (tstamp db4eca14-2b11-4a86-a337-7c2c951e01de))
+  (gr_line (start 208.2 97.5) (end 208.2 132.5) (layer "B.SilkS") (width 0.15) (tstamp df1dfced-018d-4945-a3a7-025f4b9800ea))
+  (gr_line (start 170.4 -4.7) (end 272.4 -4.7) (layer "B.SilkS") (width 0.15) (tstamp ffb50673-07e1-4205-90a4-093bb79a93ea))
+  (gr_text "Raspberry Pi Zero" (at 145.0365 85.8) (layer "B.SilkS") (tstamp 13dfcd3b-0f2c-4213-9f4e-8f701fa294b3)
     (effects (font (size 4 4) (thickness 0.15)))
   )
-  (gr_text "Display" (at 222 57.8) (layer "B.SilkS") (tstamp 225fc398-2971-432f-ba6d-b4d5757d1c6e)
+  (gr_text "Display" (at 221.4 25.3) (layer "B.SilkS") (tstamp 225fc398-2971-432f-ba6d-b4d5757d1c6e)
     (effects (font (size 6 6) (thickness 0.15)))
+  )
+  (gr_text "LIPO Battery" (at 223.2 115 270) (layer "B.SilkS") (tstamp fd313ea1-2c0b-48ad-82be-b04c1bef9db0)
+    (effects (font (size 3.6 3.6) (thickness 0.15)))
   )
 
   (group "" (id 03c52c21-9f81-4a19-9890-eb9cfb396402)
     (members
       13dfcd3b-0f2c-4213-9f4e-8f701fa294b3
       35ecc92f-4c27-4227-9bc2-c19cd08f97c5
+    )
+  )
+  (group "" (id 1ad48ebc-dabc-43dd-bb2f-f9d956dc7ae9)
+    (members
+      bcbfdb39-441a-41f7-a7ce-19b68bf5d022
+      fd313ea1-2c0b-48ad-82be-b04c1bef9db0
     )
   )
   (group "" (id 1b475f7d-c1e4-4d19-a1e3-6361d2931e5d)
@@ -5335,6 +5348,14 @@
       77579cb8-2a2a-4b3b-b46a-2d485cbe99fc
       800ae900-e504-44d1-9915-4a39b31fd276
       d7745b46-711a-4d08-adf4-5420ad94e1d9
+    )
+  )
+  (group "" (id bcbfdb39-441a-41f7-a7ce-19b68bf5d022)
+    (members
+      3c398f38-0d9a-4978-b0a3-bd2faaea9705
+      5dfb8f93-e4f6-47ec-b627-4e5b0e548ab4
+      db4eca14-2b11-4a86-a337-7c2c951e01de
+      df1dfced-018d-4945-a3a7-025f4b9800ea
     )
   )
   (group "" (id e0c15636-d057-4570-9ad9-688d870adc71)
