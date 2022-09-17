@@ -3,4 +3,5 @@
   (lib (name "RP2040-2")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/ul_RP2040/KiCAD/2022-04-30_02-22-57/2022-04-30_02-22-57.lib")(options "")(descr ""))
   (lib (name "PTS810SJK250SMTRLFS")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/PTS810SJK250SMTRLFS/PTS810SJK250SMTRLFS.lib")(options "")(descr ""))
   (lib (name "SWD 0.05 Pitch Connector - 10 Pin")(type "KiCad")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/Adafruit_Connectors/SWD 0.05 Pitch Connector - 10 Pin.kicad_sym")(options "")(descr ""))
+  (lib (name "5034801000")(type "Legacy")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/5034801000/5034801000.lib")(options "")(descr ""))
 )
