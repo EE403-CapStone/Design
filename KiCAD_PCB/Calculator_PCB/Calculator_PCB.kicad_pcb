@@ -868,7 +868,7 @@
 
   (footprint "Adafruit_Connectors:2X05_1.27MM_BOX_POSTS" (layer "F.Cu")
     (tedit 0) (tstamp 439bedce-6af6-41da-a28c-fca61cbe7d39)
-    (at 76.27 91.38 -90)
+    (at 78.13675 100.549623 -90)
     (descr "<p>4UCon: 20317</p>")
     (property "Sheetfile" "Calculator_PCB.kicad_sch")
     (property "Sheetname" "")
