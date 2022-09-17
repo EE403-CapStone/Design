@@ -4,4 +4,5 @@
   (lib (name "RP2040_minimal")(type "KiCad")(uri "C:/Users/natha/Documents/RP2040_Min_Design/Minimal-KiCAD/Minimal/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
   (lib (name "NCP1117ST33T3G")(type "KiCad")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/NCP1117ST33T3G")(options "")(descr ""))
   (lib (name "PTS810SJK250SMTRLFS")(type "KiCad")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/PTS810SJK250SMTRLFS")(options "")(descr ""))
+  (lib (name "Adafruit_Connectors")(type "KiCad")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/Adafruit_Connectors")(options "")(descr ""))
 )
