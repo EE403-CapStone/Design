@@ -3086,7 +3086,7 @@
       (net 11 "GND") (pinfunction "GND") (pintype "power_in") (tstamp d5157bbb-4b1f-4e6c-a860-86c76d219898))
     (pad "57" thru_hole circle locked (at -1.275 1.275) (size 0.6 0.6) (drill 0.35) (layers *.Cu)
       (net 11 "GND") (pinfunction "GND") (pintype "power_in") (tstamp fd341993-5da3-43c2-9ecc-2ae5974091a9))
-    (model "${KISYS3DMOD}/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/rp2040-1/RP2040_QFN_PACKAGE.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
