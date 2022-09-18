@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "C:\\Users\\natha\\Documents\\GitHub\\Design\\KiCAD_PCB\\Calculator_PCB\\Calculator_PCB.kicad_sch")
-    (date "9/18/2022 9:07:15 AM")
+    (date "9/18/2022 9:10:11 AM")
     (tool "Eeschema (6.0.4)")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -1309,7 +1309,7 @@
       (node (ref "D34") (pin "1") (pinfunction "K") (pintype "passive"))
       (node (ref "D38") (pin "1") (pinfunction "K") (pintype "passive"))
       (node (ref "D6") (pin "1") (pinfunction "K") (pintype "passive"))
-      (node (ref "J2") (pin "8") (pinfunction "8") (pintype "passive"))
+      (node (ref "J2") (pin "10") (pinfunction "10") (pintype "passive"))
       (node (ref "U2") (pin "4") (pinfunction "GPIO2") (pintype "bidirectional")))
     (net (code "25") (name "/Row4")
       (node (ref "D11") (pin "1") (pinfunction "K") (pintype "passive"))
@@ -1335,7 +1335,7 @@
       (node (ref "D4") (pin "1") (pinfunction "K") (pintype "passive"))
       (node (ref "D40") (pin "1") (pinfunction "K") (pintype "passive"))
       (node (ref "D8") (pin "1") (pinfunction "K") (pintype "passive"))
-      (node (ref "J2") (pin "10") (pinfunction "10") (pintype "passive"))
+      (node (ref "J2") (pin "8") (pinfunction "8") (pintype "passive"))
       (node (ref "U2") (pin "2") (pinfunction "GPIO0") (pintype "bidirectional")))
     (net (code "27") (name "/USB_BOOT")
       (node (ref "R1") (pin "1") (pintype "passive"))
