@@ -315,6 +315,11 @@
       (net 59 "/Col5") (pinfunction "B") (pintype "passive") (tstamp 188e9c15-178b-4776-931d-cad5796f043f))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 59 "/Col5") (pinfunction "B") (pintype "passive") (tstamp 7209b53e-2e4f-4478-87b0-eeca0c7322e0))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -364,6 +369,11 @@
       (net 16 "/Col12") (pinfunction "B") (pintype "passive") (tstamp 28683c2f-87b5-46c1-9ac4-2b08109d6cdc))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 16 "/Col12") (pinfunction "B") (pintype "passive") (tstamp bda5cdf8-2e49-450e-a2c5-fb728a471bb0))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
@@ -593,6 +603,11 @@
       (net 14 "/Col10") (pinfunction "B") (pintype "passive") (tstamp 03ac933a-a006-4d8b-ac97-af6cd6e29abb))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 14 "/Col10") (pinfunction "B") (pintype "passive") (tstamp a3f70bed-430b-4841-8c43-c105d2f068be))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -790,7 +805,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 91a8927a-9de9-438c-8077-18038ff23bb1)
     )
-    (fp_text user "${REFERENCE}" (at 0 9.12 90 unlocked) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0.01 -7.72 90 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2221929e-266b-454a-92ae-00a784219d5f)
     )
@@ -876,6 +891,11 @@
       (net 47 "/Col4") (pinfunction "B") (pintype "passive") (tstamp bac4abdc-8f2c-42f3-9ffe-0c2afc1922ea))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 47 "/Col4") (pinfunction "B") (pintype "passive") (tstamp fe5ef440-d3d7-4887-9212-65e7d2a3277c))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" (layer "F.Cu")
@@ -1041,6 +1061,11 @@
       (net 78 "/Col9") (pinfunction "B") (pintype "passive") (tstamp 8ee27823-a6f8-406b-82d1-d04c4e460e49))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 78 "/Col9") (pinfunction "B") (pintype "passive") (tstamp d3971630-6d31-43cf-bbb7-be7a4851fb93))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -1282,6 +1307,11 @@
       (net 59 "/Col5") (pinfunction "B") (pintype "passive") (tstamp 0550224c-b1cd-4aee-b86b-1d325a8fae5b))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 59 "/Col5") (pinfunction "B") (pintype "passive") (tstamp d07d8629-03c8-4c82-8bc8-7d2a26fcd865))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -1331,6 +1361,11 @@
       (net 69 "/Col7") (pinfunction "B") (pintype "passive") (tstamp 334c5ed1-e96d-4a80-bc4e-38cb212c8875))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 69 "/Col7") (pinfunction "B") (pintype "passive") (tstamp efa87fa3-7f38-445c-9591-962f652580f6))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (layer "F.Cu")
@@ -1422,6 +1457,11 @@
       (net 59 "/Col5") (pinfunction "B") (pintype "passive") (tstamp 07105530-b526-4b11-a93c-f6c0a46ede2a))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 59 "/Col5") (pinfunction "B") (pintype "passive") (tstamp d38ce23b-951d-4aec-887f-e4a37b324e0b))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -1471,6 +1511,11 @@
       (net 73 "/Col8") (pinfunction "B") (pintype "passive") (tstamp 6d76ecd6-08c5-46fe-bf99-217079cfcdb4))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 73 "/Col8") (pinfunction "B") (pintype "passive") (tstamp c3bef0d8-2182-40fa-bdc2-4a33194cb678))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -1520,6 +1565,11 @@
       (net 64 "/Col6") (pinfunction "B") (pintype "passive") (tstamp 6c953b92-6ac9-4123-bc21-bb18b574041f))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 64 "/Col6") (pinfunction "B") (pintype "passive") (tstamp bb380b0b-5919-4785-b30f-150b7e4abf68))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "5034801000:MOLEX_5034801000" (layer "F.Cu")
@@ -1697,6 +1747,11 @@
       (net 15 "/Col11") (pinfunction "B") (pintype "passive") (tstamp 65768dfc-5123-4cd3-8ebe-bb91162460b0))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 15 "/Col11") (pinfunction "B") (pintype "passive") (tstamp e4817ef1-22ba-428d-8bd7-e11dec1f9cd7))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (layer "F.Cu")
@@ -1830,6 +1885,11 @@
       (net 78 "/Col9") (pinfunction "B") (pintype "passive") (tstamp 088b8ece-c7a0-46ac-9253-84c4d259ba19))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 78 "/Col9") (pinfunction "B") (pintype "passive") (tstamp e0a6ef32-f8a9-49c6-8561-649c1d4eb380))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -1879,6 +1939,11 @@
       (net 64 "/Col6") (pinfunction "B") (pintype "passive") (tstamp 6f2c495d-e2de-4ae3-b304-4aaa237919e4))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 64 "/Col6") (pinfunction "B") (pintype "passive") (tstamp c0247d9e-4f78-4801-aed4-bf0567d851c0))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
@@ -2174,6 +2239,11 @@
       (net 73 "/Col8") (pinfunction "B") (pintype "passive") (tstamp 62bcace8-e78f-44bb-894d-8ae3a23108bc))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 73 "/Col8") (pinfunction "B") (pintype "passive") (tstamp cb64d58e-8146-4ed3-b486-e085247665ec))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -2223,6 +2293,11 @@
       (net 15 "/Col11") (pinfunction "B") (pintype "passive") (tstamp 214cf09e-3963-4fe4-873f-0259bf8c23c2))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 15 "/Col11") (pinfunction "B") (pintype "passive") (tstamp 3c8b3044-3e88-4806-b11f-a68d466ce2c3))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
@@ -2440,6 +2515,11 @@
       (net 14 "/Col10") (pinfunction "B") (pintype "passive") (tstamp 615d732b-9d57-4d76-b605-a1afbef21a73))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 14 "/Col10") (pinfunction "B") (pintype "passive") (tstamp 8292e9fa-1014-4312-8c58-25cc51e9c3a8))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (layer "F.Cu")
@@ -2627,6 +2707,11 @@
       (net 16 "/Col12") (pinfunction "B") (pintype "passive") (tstamp 66efb0ee-0ceb-4a5f-86f2-829c3694a867))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 16 "/Col12") (pinfunction "B") (pintype "passive") (tstamp 72fba40b-cb24-4c5a-8e76-44deeb2760c7))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
@@ -2718,6 +2803,11 @@
       (net 14 "/Col10") (pinfunction "B") (pintype "passive") (tstamp d78b252e-8e24-4bfb-916e-3b642c73a035))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 14 "/Col10") (pinfunction "B") (pintype "passive") (tstamp f414999d-04e2-4740-b33b-f7fedf64b617))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "PTS810SJK250SMTRLFS:PTS810SJG250SMTRLFS" (layer "F.Cu")
@@ -2811,6 +2901,11 @@
       (net 47 "/Col4") (pinfunction "B") (pintype "passive") (tstamp 2180785e-b1c6-4e83-a0bb-e19c56191ffd))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 47 "/Col4") (pinfunction "B") (pintype "passive") (tstamp 5ff29985-6500-40db-8979-9c899ed03a70))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "RP2040_minimal:RP2040-QFN-56" (layer "F.Cu")
@@ -3148,6 +3243,11 @@
       (net 69 "/Col7") (pinfunction "B") (pintype "passive") (tstamp 4231e4ae-f86f-497a-9e7a-dc62a4efd479))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 69 "/Col7") (pinfunction "B") (pintype "passive") (tstamp 4b150154-3ff1-4af3-9ed5-c357ef0df150))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -3197,6 +3297,11 @@
       (net 64 "/Col6") (pinfunction "B") (pintype "passive") (tstamp ac436481-21cb-4262-b7fa-8a5e7bf09537))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 64 "/Col6") (pinfunction "B") (pintype "passive") (tstamp e20b8c6e-e877-42fe-9096-57a931a6984c))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -3300,6 +3405,11 @@
       (net 15 "/Col11") (pinfunction "B") (pintype "passive") (tstamp 361399fb-ef2c-4f4e-a29f-f1b6f422b7f1))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 15 "/Col11") (pinfunction "B") (pintype "passive") (tstamp 7b16646a-3078-4448-91c6-5695783ec07d))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -3349,6 +3459,11 @@
       (net 78 "/Col9") (pinfunction "B") (pintype "passive") (tstamp 28d4e0d5-d4ac-443d-b821-a5c4233f3a63))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 78 "/Col9") (pinfunction "B") (pintype "passive") (tstamp ced0e5a6-2d89-44b7-a3b5-ac956e97b7d5))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -3398,6 +3513,11 @@
       (net 73 "/Col8") (pinfunction "B") (pintype "passive") (tstamp 40a5f124-6cda-4dcf-901d-565336eaa493))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 73 "/Col8") (pinfunction "B") (pintype "passive") (tstamp 5a92259a-3a7d-4998-bfcc-67d0f77978ab))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (layer "F.Cu")
@@ -3640,6 +3760,11 @@
       (net 16 "/Col12") (pinfunction "B") (pintype "passive") (tstamp 2130e753-eb50-4e72-8ff2-b507589191ab))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 16 "/Col12") (pinfunction "B") (pintype "passive") (tstamp 56365a23-1874-4c67-abf3-68921e2c1ed4))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
@@ -3689,6 +3814,11 @@
       (net 69 "/Col7") (pinfunction "B") (pintype "passive") (tstamp 66c4ed0c-5a0d-4610-9403-a68378c2eab9))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 69 "/Col7") (pinfunction "B") (pintype "passive") (tstamp ae23b59d-fe2b-4965-bce5-373886238933))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
