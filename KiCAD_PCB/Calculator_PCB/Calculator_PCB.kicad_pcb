@@ -1504,7 +1504,7 @@
 
   (footprint "5034801000:MOLEX_5034801000" (layer "F.Cu")
     (tedit 63265C17) (tstamp 6577e2d6-e771-4f1a-b78b-c897f7ae89cb)
-    (at 202.24 103.45 90)
+    (at 206.01 110.6 90)
     (property "MANUFACTURER" "MOLEX")
     (property "PARTREV" "H")
     (property "STANDARD" "Manufacturer Recommendation")
@@ -1559,6 +1559,11 @@
       (net 103 "unconnected-(J3-PadS1)") (pinfunction "SHIELD") (pintype "passive+no_connect") (tstamp 3423b69d-31f4-49a7-a31b-7a75e0771985))
     (pad "S2" smd rect locked (at 3.04 2.65 90) (size 0.3 1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 103 "unconnected-(J3-PadS1)") (pinfunction "SHIELD") (pintype "passive+no_connect") (tstamp 7a371838-7673-4e2a-955b-9b6e37993916))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/130094464-659-503480-1000/503480-1000.stp"
+      (offset (xyz 0 -3.3 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "5034801000:MOLEX_5034801000" (layer "F.Cu")
