@@ -2852,6 +2852,11 @@
       (net 10 "/USB_BOOT") (pinfunction "3") (pintype "bidirectional") (tstamp 255d34a5-5a47-4498-9a55-da51a8a931dd))
     (pad "4" smd rect locked (at 2.075 1.075) (size 1.05 0.65) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "GND") (pinfunction "4") (pintype "bidirectional") (tstamp 6590e1ff-e3bc-47da-b1d4-cc9385c6f637))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/PTS810SJK250SMTRLFS/PTS810SJK250SMTRLFS--3DModel-STEP-56544.STEP"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "KSA1M331LFT_Footprint:KSA1M331LFT" (layer "F.Cu")
