@@ -637,6 +637,11 @@
       (net 44 "/Col3") (pinfunction "B") (pintype "passive") (tstamp 444b95f8-8c63-4ce6-8df1-23a4982ccc40))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 44 "/Col3") (pinfunction "B") (pintype "passive") (tstamp fc01945a-0f3e-4ccb-869e-e232ff747d9c))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
