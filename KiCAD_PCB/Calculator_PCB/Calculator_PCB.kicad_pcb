@@ -261,10 +261,10 @@
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp d41ebf9e-bf40-42d7-939e-e39262e6f2fc))
     (pad "6" smd rect (at -2.875 -1.865 180) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 11 "GND") (pinfunction "Shield") (pintype "passive") (tstamp fd2deda9-0706-4635-833f-458515e20d4e))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10103594-0001LF_Horizontal.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/Amphenol_Micro_USB/10103594-0001LF--3DModel-STEP-533217.STEP"
+      (offset (xyz -0.03 0.2 2.18))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 -180 0))
     )
   )
 
