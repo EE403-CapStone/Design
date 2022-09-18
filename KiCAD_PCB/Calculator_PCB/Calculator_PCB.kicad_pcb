@@ -953,7 +953,7 @@
       (net 31 "/QSPI_SD3_51") (pinfunction "IO3") (pintype "bidirectional") (tstamp c9c1f79a-67e4-4e2d-8423-0a903bb57943))
     (pad "8" smd roundrect (at 3.6 -1.905) (size 1.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 7 "+3V3") (pinfunction "VCC") (pintype "power_in") (tstamp bf2ef954-851d-43b1-8750-f389200286ca))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/W25Q128JVSIQ/W25Q128JVSIQ.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
