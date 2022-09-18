@@ -5868,10 +5868,6 @@
     )
   )
 
-  (gr_line (start 301.57 -18.08) (end 301.57 -78.08) (layer "B.SilkS") (width 0.15) (tstamp 1584c8fa-3039-4079-bc47-1b5b80c5367b))
-  (gr_line (start 199.57 -18.08) (end 199.57 -78.08) (layer "B.SilkS") (width 0.15) (tstamp 51a43830-14f6-4a46-bf85-57c9e1423de5))
-  (gr_line (start 199.57 -18.08) (end 301.57 -18.08) (layer "B.SilkS") (width 0.15) (tstamp 5ea7a41f-f860-4daa-a540-9fbd6ef6f536))
-  (gr_line (start 199.57 -78.08) (end 301.57 -78.08) (layer "B.SilkS") (width 0.15) (tstamp ffb50673-07e1-4205-90a4-093bb79a93ea))
   (gr_line (start 79.65 142.21) (end 207.65 142.21) (layer "Edge.Cuts") (width 0.2) (tstamp 024aec87-418d-43e2-982b-d40b3ec576b4))
   (gr_circle (center 207.65 140.21) (end 208.65 140.21) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp 1437ba0b-0053-41eb-bc61-cbccf6279fc9))
   (gr_arc (start 209.65 140.21) (mid 209.064212 141.624199) (end 207.65 142.21) (layer "Edge.Cuts") (width 0.2) (tstamp 2b886276-dd55-4b24-9805-ffa937415d2c))
@@ -5894,9 +5890,12 @@
   (gr_circle (center 107.65 66.21) (end 108.65 66.21) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp fcd0e196-8d7e-4c4c-a99c-c0d8a5f57856))
   (gr_line (start 178.1 94.762) (end 178.1 64.262) (layer "User.9") (width 0.15) (tstamp 04623b2c-141f-45d5-b606-ca93697b2487))
   (gr_line (start 183.11 56.98) (end 183.11 99.58) (layer "User.9") (width 0.15) (tstamp 0f16f15c-d889-430d-bdc7-8ae1f82b9520))
+  (gr_line (start 301.57 -18.08) (end 301.57 -78.08) (layer "User.9") (width 0.15) (tstamp 1584c8fa-3039-4079-bc47-1b5b80c5367b))
   (gr_line (start 183.11 56.98) (end 199.71 56.98) (layer "User.9") (width 0.15) (tstamp 2ce839a7-ae56-4836-a547-aefa450214ac))
   (gr_line (start 214.69 131.83) (end 244.69 131.83) (layer "User.9") (width 0.15) (tstamp 3c398f38-0d9a-4978-b0a3-bd2faaea9705))
+  (gr_line (start 199.57 -18.08) (end 199.57 -78.08) (layer "User.9") (width 0.15) (tstamp 51a43830-14f6-4a46-bf85-57c9e1423de5))
   (gr_line (start 214.69 96.83) (end 244.69 96.83) (layer "User.9") (width 0.15) (tstamp 5dfb8f93-e4f6-47ec-b627-4e5b0e548ab4))
+  (gr_line (start 199.57 -18.08) (end 301.57 -18.08) (layer "User.9") (width 0.15) (tstamp 5ea7a41f-f860-4daa-a540-9fbd6ef6f536))
   (gr_line (start 112.1 94.762) (end 112.1 64.262) (layer "User.9") (width 0.15) (tstamp 77579cb8-2a2a-4b3b-b46a-2d485cbe99fc))
   (gr_line (start 111.973 94.762) (end 177.973 94.762) (layer "User.9") (width 0.15) (tstamp 800ae900-e504-44d1-9915-4a39b31fd276))
   (gr_line (start 183.11 99.58) (end 199.71 99.58) (layer "User.9") (width 0.15) (tstamp 8cbbddaa-560a-4858-a57e-0d4d594fb21f))
@@ -5904,11 +5903,12 @@
   (gr_line (start 112.1 64.262) (end 178.1 64.262) (layer "User.9") (width 0.15) (tstamp d7745b46-711a-4d08-adf4-5420ad94e1d9))
   (gr_line (start 244.69 96.83) (end 244.69 131.83) (layer "User.9") (width 0.15) (tstamp db4eca14-2b11-4a86-a337-7c2c951e01de))
   (gr_line (start 214.69 96.83) (end 214.69 131.83) (layer "User.9") (width 0.15) (tstamp df1dfced-018d-4945-a3a7-025f4b9800ea))
-  (gr_text "Display" (at 250.57 -48.08) (layer "B.SilkS") (tstamp 66038996-a46c-4850-9f62-775499845652)
-    (effects (font (size 6 6) (thickness 0.15)))
-  )
+  (gr_line (start 199.57 -78.08) (end 301.57 -78.08) (layer "User.9") (width 0.15) (tstamp ffb50673-07e1-4205-90a4-093bb79a93ea))
   (gr_text "Raspberry Pi Zero" (at 145.0365 79.512) (layer "User.9") (tstamp 13dfcd3b-0f2c-4213-9f4e-8f701fa294b3)
     (effects (font (size 4 4) (thickness 0.15)))
+  )
+  (gr_text "Display" (at 250.57 -48.08) (layer "User.9") (tstamp 66038996-a46c-4850-9f62-775499845652)
+    (effects (font (size 6 6) (thickness 0.15)))
   )
   (gr_text "Charging Module" (at 191.41 78.28 270) (layer "User.9") (tstamp ec9041c6-6700-4963-9711-2f33daa5cfd3)
     (effects (font (size 3.2 3.2) (thickness 0.15)))
@@ -34681,14 +34681,6 @@
       )
     )
   )
-  (group "" (id 1b475f7d-c1e4-4d19-a1e3-6361d2931e5d)
-    (members
-      1584c8fa-3039-4079-bc47-1b5b80c5367b
-      51a43830-14f6-4a46-bf85-57c9e1423de5
-      5ea7a41f-f860-4daa-a540-9fbd6ef6f536
-      ffb50673-07e1-4205-90a4-093bb79a93ea
-    )
-  )
   (group "" (id 2f294de1-352a-42fc-943f-6793c56e77f0)
     (members
       3c398f38-0d9a-4978-b0a3-bd2faaea9705
@@ -34696,6 +34688,15 @@
       db4eca14-2b11-4a86-a337-7c2c951e01de
       df1dfced-018d-4945-a3a7-025f4b9800ea
       fd313ea1-2c0b-48ad-82be-b04c1bef9db0
+    )
+  )
+  (group "" (id 66c97e6e-49ff-48b7-938e-a4ee6251c17f)
+    (members
+      1584c8fa-3039-4079-bc47-1b5b80c5367b
+      51a43830-14f6-4a46-bf85-57c9e1423de5
+      5ea7a41f-f860-4daa-a540-9fbd6ef6f536
+      66038996-a46c-4850-9f62-775499845652
+      ffb50673-07e1-4205-90a4-093bb79a93ea
     )
   )
   (group "" (id 7f6fba64-d703-43eb-b7f6-258edb7c6c13)
@@ -34738,11 +34739,6 @@
       77579cb8-2a2a-4b3b-b46a-2d485cbe99fc
       800ae900-e504-44d1-9915-4a39b31fd276
       d7745b46-711a-4d08-adf4-5420ad94e1d9
-    )
-  )
-  (group "" (id e0c15636-d057-4570-9ad9-688d870adc71)
-    (members
-      1b475f7d-c1e4-4d19-a1e3-6361d2931e5d
     )
   )
 )

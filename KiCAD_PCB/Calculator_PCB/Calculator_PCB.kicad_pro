@@ -407,7 +407,7 @@
       "idf": "",
       "netlist": "Calculator_PCB.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Calculator_STEP/Calculator_PCB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
