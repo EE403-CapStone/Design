@@ -5,4 +5,5 @@
   (lib (name "NCP1117ST33T3G")(type "KiCad")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/NCP1117ST33T3G")(options "")(descr ""))
   (lib (name "PTS810SJK250SMTRLFS")(type "KiCad")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/PTS810SJK250SMTRLFS")(options "")(descr ""))
   (lib (name "Adafruit_Connectors")(type "KiCad")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/Adafruit_Connectors")(options "")(descr ""))
+  (lib (name "5034801000")(type "KiCad")(uri "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/5034801000")(options "")(descr ""))
 )

@@ -3787,13 +3787,13 @@
   (symbol (lib_id "5034801000:5034801000") (at 96.266 84.836 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2fce0416-25ce-42d1-b0da-bfd7a6ca89c1)
-    (property "Reference" "J?" (id 0) (at 102.616 82.2959 0)
+    (property "Reference" "J3" (id 0) (at 102.616 82.2959 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "5034801000" (id 1) (at 102.616 84.8359 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MOLEX_5034801000" (id 2) (at 96.266 84.836 0)
+    (property "Footprint" "" (id 2) (at 96.266 84.836 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 96.266 84.836 0)
@@ -4369,7 +4369,7 @@
   (symbol (lib_id "5034801000:5034801000") (at 41.656 86.106 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6b1ec389-895f-4d08-872b-0bc205aa059c)
-    (property "Reference" "J?" (id 0) (at 48.006 83.5659 0)
+    (property "Reference" "J2" (id 0) (at 48.006 83.5659 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "" (id 1) (at 48.006 86.1059 0)
@@ -5922,11 +5922,11 @@
     (path "/8eba2a4c-395b-4997-82c9-fbc7d83baeee"
       (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal")
     )
-    (path "/2fce0416-25ce-42d1-b0da-bfd7a6ca89c1"
-      (reference "J?") (unit 1) (value "5034801000") (footprint "MOLEX_5034801000")
-    )
     (path "/6b1ec389-895f-4d08-872b-0bc205aa059c"
-      (reference "J?") (unit 1) (value "5034801000") (footprint "MOLEX_5034801000")
+      (reference "J2") (unit 1) (value "5034801000") (footprint "5034801000:MOLEX_5034801000")
+    )
+    (path "/2fce0416-25ce-42d1-b0da-bfd7a6ca89c1"
+      (reference "J3") (unit 1) (value "5034801000") (footprint "5034801000:MOLEX_5034801000")
     )
     (path "/29f71695-b47c-4fbb-b52b-07876a33a1d5"
       (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
