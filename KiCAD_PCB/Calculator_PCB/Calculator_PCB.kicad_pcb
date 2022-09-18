@@ -411,8 +411,8 @@
       (net 7 "+3V3") (pintype "passive") (tstamp 89f7c65d-e5df-4954-84b6-f3373c71155d))
     (pad "2" smd roundrect (at 0.5675 0 270) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp 95d8dce2-6278-42a7-ab18-d765b7724f9a))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -453,8 +453,8 @@
       (net 7 "+3V3") (pintype "passive") (tstamp 43ed61b9-531d-425a-88b1-1300a4e1de2b))
     (pad "2" smd roundrect (at 0.5675 0 90) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp d3c075aa-25b2-496e-a28f-29f31c859e31))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -549,8 +549,8 @@
       (net 7 "+3V3") (pintype "passive") (tstamp 33104077-cc26-495b-b2ee-a6a935ec4b60))
     (pad "2" smd roundrect (at 0.5675 0 180) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp 56d41d9f-dd38-47aa-b1c3-ba18874e2382))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -699,8 +699,8 @@
       (net 7 "+3V3") (pintype "passive") (tstamp b7af06ee-5b1c-40be-9efd-44719dc1658e))
     (pad "2" smd roundrect (at 0.5675 0) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp a4659fb3-8982-4912-b550-39f1f35ec229))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -741,8 +741,8 @@
       (net 11 "GND") (pintype "passive") (tstamp 65d5015d-27dd-4e27-85ea-2979314d566b))
     (pad "2" smd roundrect (at 0.5675 0 180) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 5 "Net-(C16-Pad2)") (pintype "passive") (tstamp 1d84e172-59fc-450b-9b07-58b6196918e2))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -783,8 +783,8 @@
       (net 36 "VBUS") (pintype "passive") (tstamp 5ec71415-e01c-4daa-ab47-751d8333dd47))
     (pad "2" smd roundrect (at 1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2127659574)
       (net 11 "GND") (pintype "passive") (tstamp 8bdf5382-ae8a-4da0-a17e-8259042acf63))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitance_0805.step"
+      (offset (xyz 11.6 3.55 -119.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -1157,8 +1157,8 @@
       (net 7 "+3V3") (pintype "passive") (tstamp 3af3e521-42f6-44d3-afe0-216b26a54ff6))
     (pad "2" smd roundrect (at 0.5675 0) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp 781317a1-93cd-4fe7-ab34-c482ef165d31))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -1253,7 +1253,7 @@
       (net 10 "/USB_BOOT") (pintype "passive") (tstamp 0a678591-1b8b-4c9a-806c-5fdedd7b2e82))
     (pad "2" smd roundrect (at 0.5975 0 270) (size 0.715 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 9 "/QSPI_SS_56") (pintype "passive") (tstamp 2fb6028a-a8ef-4a77-9393-37e875cbba9a))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/resistor-0402-1.snapshot.5/Resistor_0402.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1403,7 +1403,7 @@
       (net 7 "+3V3") (pintype "passive") (tstamp b466898c-3578-42c7-a144-22a7298ad5f7))
     (pad "2" smd roundrect (at 0.5975 0 270) (size 0.715 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 9 "/QSPI_SS_56") (pintype "passive") (tstamp 31c7486a-bf31-492d-9902-6777de1ec1ef))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/resistor-0402-1.snapshot.5/Resistor_0402.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1789,7 +1789,7 @@
       (net 1 "Net-(R4-Pad1)") (pintype "passive") (tstamp ee70e692-9ee3-44f3-8e24-2cd2953172c9))
     (pad "2" smd roundrect (at 0.5975 0 90) (size 0.715 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "/USB_D-") (pintype "passive") (tstamp d996975f-d1cb-45d9-8c70-e03cba26464a))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/resistor-0402-1.snapshot.5/Resistor_0402.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1831,8 +1831,8 @@
       (net 7 "+3V3") (pintype "passive") (tstamp 9a76f38e-c286-4e02-8aee-9160d27ed6e0))
     (pad "2" smd roundrect (at 1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2127659574)
       (net 11 "GND") (pintype "passive") (tstamp f0fded9b-71a2-4d8a-956d-9e8f8e150b1e))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitance_0805.step"
+      (offset (xyz 11.6 3.55 -119.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -1981,8 +1981,8 @@
       (net 30 "+1V1") (pintype "passive") (tstamp 2ab9e555-d1e0-4071-8b01-b3fd746ab2da))
     (pad "2" smd roundrect (at 0.5675 0 90) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp 2526fd1f-5d69-4e18-ad0f-d2ac1496851f))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -2185,7 +2185,7 @@
       (net 3 "Net-(R3-Pad1)") (pintype "passive") (tstamp 527ac992-6b07-4a8e-9572-287a7744848b))
     (pad "2" smd roundrect (at 0.5975 0 90) (size 0.715 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 4 "/USB_D+") (pintype "passive") (tstamp c3e35618-f8da-4bc8-b512-d7b8f30fc990))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/resistor-0402-1.snapshot.5/Resistor_0402.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2335,8 +2335,8 @@
       (net 7 "+3V3") (pintype "passive") (tstamp cdd691ae-ae40-4f3b-84d4-cc54b1b75971))
     (pad "2" smd roundrect (at 0.5675 0 180) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp 21fe9134-f8fd-41ac-abf3-eaa97ef08e4b))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -2377,8 +2377,8 @@
       (net 30 "+1V1") (pintype "passive") (tstamp 57600a83-0962-4987-b14e-a3a3cdf395cd))
     (pad "2" smd roundrect (at 0.5675 0 90) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp a7340d23-8843-4560-8305-7c436d75a484))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -2419,8 +2419,8 @@
       (net 7 "+3V3") (pintype "passive") (tstamp f7ed73da-c6e3-4daa-953c-e3cc3a1f7346))
     (pad "2" smd roundrect (at 0.5675 0) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp bc4163e4-d633-4a2e-a19b-47235133df19))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -2461,8 +2461,8 @@
       (net 30 "+1V1") (pintype "passive") (tstamp 64918e7a-0abb-4f6f-9852-97bcf130e83b))
     (pad "2" smd roundrect (at 0.5675 0 270) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp 955e0c96-b70c-4c38-a7d6-08ba4e2c2d5d))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -2557,7 +2557,7 @@
       (net 7 "+3V3") (pintype "passive") (tstamp 7d839ced-3fd0-489e-8ae2-55498e3936f7))
     (pad "2" smd roundrect (at 0.5975 0 90) (size 0.715 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 8 "/RUN_26") (pintype "passive") (tstamp 0b18b7a4-f57a-4dd2-9f78-5a71439b5801))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/resistor-0402-1.snapshot.5/Resistor_0402.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2599,8 +2599,8 @@
       (net 11 "GND") (pintype "passive") (tstamp 911e458a-c00a-4d73-b032-b38b455659b8))
     (pad "2" smd roundrect (at 0.5675 0) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 22 "/XIN_20") (pintype "passive") (tstamp 0155977b-38c6-4d03-80d0-f61b117e1f83))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -2749,8 +2749,8 @@
       (net 7 "+3V3") (pintype "passive") (tstamp 90dd16e7-d068-412a-b518-16a1e9fa0d08))
     (pad "2" smd roundrect (at 0.5675 0 90) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp 2ac584dd-28b4-4494-b984-d3aa70c5b261))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -3567,10 +3567,10 @@
       (net 7 "+3V3") (pinfunction "VO") (pintype "power_out") (tstamp 753f50db-db36-4ce6-abb0-34e6b947d5b3))
     (pad "3" smd rect (at -3.15 2.3 270) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 36 "VBUS") (pinfunction "VI") (pintype "power_in") (tstamp 7629893c-4d2a-4b33-b87f-4e9d912b55c9))
-    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/NCP1117ST33T3G/NCP1117ST33T3G.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -3609,7 +3609,7 @@
       (net 5 "Net-(C16-Pad2)") (pintype "passive") (tstamp c58fe790-7e21-415d-9f6a-3c1eef576e52))
     (pad "2" smd roundrect (at 0.5975 0 90) (size 0.715 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 6 "/XOUT_21") (pintype "passive") (tstamp 082352b9-332e-42b1-b10a-65cf79ef5577))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/resistor-0402-1.snapshot.5/Resistor_0402.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3861,8 +3861,8 @@
       (net 7 "+3V3") (pintype "passive") (tstamp ef9dbf13-d945-40e6-938e-35c0389b250f))
     (pad "2" smd roundrect (at 0.5675 0 180) (size 0.735 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 11 "GND") (pintype "passive") (tstamp 25ce5d25-3793-4d86-abee-e0637cf2584a))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/capacitance-assembly-1.snapshot.2/Capacitor_0402.step"
+      (offset (xyz -0.26 -0.28 -0.25))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -3911,7 +3911,7 @@
       (net 12 "/Row4") (pinfunction "K") (pintype "passive") (tstamp 66bd7b46-3951-42c2-ae11-3a71a7b93d35))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 65 "Net-(D26-Pad2)") (pinfunction "A") (pintype "passive") (tstamp aaf7d2fb-9503-4103-a51f-8309b94b1006))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -3961,7 +3961,7 @@
       (net 13 "/Row5") (pinfunction "K") (pintype "passive") (tstamp 63abde32-cc0d-4ecb-b484-4440ca70a1b6))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 75 "Net-(D35-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 0e9bcdc6-86c4-4639-88ff-2f29e7e0fb58))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4011,7 +4011,7 @@
       (net 38 "/Row3") (pinfunction "K") (pintype "passive") (tstamp 71220686-f1bf-4f6a-800f-8c1aba5505b0))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 58 "Net-(D21-Pad2)") (pinfunction "A") (pintype "passive") (tstamp fe64fa6d-0f4c-456d-8e7f-20a0f785c216))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4061,7 +4061,7 @@
       (net 13 "/Row5") (pinfunction "K") (pintype "passive") (tstamp 604df229-9955-4103-bc8f-75e45b3284ba))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 85 "Net-(D31-Pad2)") (pinfunction "A") (pintype "passive") (tstamp a8df6afa-cd7b-4388-9105-d3c691c0cdc3))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4111,7 +4111,7 @@
       (net 94 "/Row6") (pinfunction "K") (pintype "passive") (tstamp 5238bc45-dd1c-4156-8851-1aa20eb5e2a1))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 81 "Net-(D40-Pad2)") (pinfunction "A") (pintype "passive") (tstamp c69b494d-3ccb-40ab-93cb-8813cd91586b))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4161,7 +4161,7 @@
       (net 12 "/Row4") (pinfunction "K") (pintype "passive") (tstamp dd23ae97-0178-448d-b6f9-dd80af27b44d))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 48 "Net-(D10-Pad2)") (pinfunction "A") (pintype "passive") (tstamp de830eff-6581-4518-b574-02c22d623a0f))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4211,7 +4211,7 @@
       (net 94 "/Row6") (pinfunction "K") (pintype "passive") (tstamp aff1b121-9f3f-4b34-a75b-b8b8a0f92296))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 83 "Net-(D8-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 6676d5e4-ae54-4752-9363-ad8943c6cf10))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4261,7 +4261,7 @@
       (net 94 "/Row6") (pinfunction "K") (pintype "passive") (tstamp d273bf53-9e0a-4e96-b278-ac5b2d09c591))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 57 "Net-(D20-Pad2)") (pinfunction "A") (pintype "passive") (tstamp a18e9c54-3811-4cd5-ab66-faad5c547c18))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4311,7 +4311,7 @@
       (net 12 "/Row4") (pinfunction "K") (pintype "passive") (tstamp a8f5718a-9498-4816-a1ce-ace2140e0f78))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 70 "Net-(D30-Pad2)") (pinfunction "A") (pintype "passive") (tstamp d755c0e0-dc09-43a9-856a-28b0effebfdd))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4361,7 +4361,7 @@
       (net 94 "/Row6") (pinfunction "K") (pintype "passive") (tstamp 8f9f1e6e-489f-4cf0-b480-f0f750dd90ce))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 67 "Net-(D28-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 0f8e19ef-0858-42fd-a1cb-3345f2d93095))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4411,7 +4411,7 @@
       (net 38 "/Row3") (pinfunction "K") (pintype "passive") (tstamp a5a29b07-c413-4e2c-a169-417885f3ba54))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 50 "Net-(D13-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 988fb53d-5c3b-40a1-8a62-0994c8d6cd57))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4461,7 +4461,7 @@
       (net 13 "/Row5") (pinfunction "K") (pintype "passive") (tstamp 2d1cc44a-7646-414c-90d0-38964392d0ab))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 43 "Net-(D3-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 5d8526b1-b2ad-431d-8910-de3029a99bd2))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4511,7 +4511,7 @@
       (net 38 "/Row3") (pinfunction "K") (pintype "passive") (tstamp d52d203e-c7b9-4b5b-b643-926adf63f74e))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 72 "Net-(D33-Pad2)") (pinfunction "A") (pintype "passive") (tstamp a3ebd5c2-9cfa-4a04-831f-16049df6993f))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4561,7 +4561,7 @@
       (net 94 "/Row6") (pinfunction "K") (pintype "passive") (tstamp fa8d3298-4465-4262-af86-2ce8acafa8cd))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 40 "Net-(D4-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 8dea977c-118e-4034-957c-6300cc533bbf))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4611,7 +4611,7 @@
       (net 12 "/Row4") (pinfunction "K") (pintype "passive") (tstamp 3faecdfd-6f83-432c-84c7-a383db6c3395))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 41 "Net-(D2-Pad2)") (pinfunction "A") (pintype "passive") (tstamp a6c72377-578b-4ec0-8d11-5dba1a53d016))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4661,7 +4661,7 @@
       (net 38 "/Row3") (pinfunction "K") (pintype "passive") (tstamp e1f97a17-c5f3-452e-8e51-e18c83f7b9a9))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 63 "Net-(D25-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 8ccf96a3-a1f3-4ed7-ad16-07cbb838dcb8))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4711,7 +4711,7 @@
       (net 13 "/Row5") (pinfunction "K") (pintype "passive") (tstamp fbf41452-39fa-4258-a830-c96bd350160b))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 80 "Net-(D39-Pad2)") (pinfunction "A") (pintype "passive") (tstamp c6d6294f-9177-4516-b2d1-be0e8643f706))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4761,7 +4761,7 @@
       (net 94 "/Row6") (pinfunction "K") (pintype "passive") (tstamp 54dad896-2f1f-4473-bd2f-908e40fa879a))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 76 "Net-(D36-Pad2)") (pinfunction "A") (pintype "passive") (tstamp eda45788-94b8-4077-aa5c-e24d79886356))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4811,7 +4811,7 @@
       (net 38 "/Row3") (pinfunction "K") (pintype "passive") (tstamp 376c4555-9188-4350-96a4-67462a3ede43))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 77 "Net-(D37-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 721b9fc3-aa35-42eb-9b4a-e5c0088a1b7e))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4861,7 +4861,7 @@
       (net 13 "/Row5") (pinfunction "K") (pintype "passive") (tstamp c267d82b-b28b-473a-ad4d-04e5d86d04d0))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 56 "Net-(D19-Pad2)") (pinfunction "A") (pintype "passive") (tstamp de103fd8-0bd2-4a1b-bd73-cbd77e568697))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4911,7 +4911,7 @@
       (net 12 "/Row4") (pinfunction "K") (pintype "passive") (tstamp 627d0fda-e8f3-42ea-a474-f4cbfa03e3eb))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 37 "Net-(D6-Pad2)") (pinfunction "A") (pintype "passive") (tstamp a38cbd21-38da-4e05-8e65-c5f7266f3483))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4961,7 +4961,7 @@
       (net 13 "/Row5") (pinfunction "K") (pintype "passive") (tstamp d60fb1ef-55e3-4505-9305-7f07f8642d82))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 66 "Net-(D27-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 47bfb42a-b9b1-4065-8006-fa51762858ec))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5011,7 +5011,7 @@
       (net 38 "/Row3") (pinfunction "K") (pintype "passive") (tstamp 97740e27-0b29-4489-9e38-3ac3c2d49bbe))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 54 "Net-(D17-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 377bdb44-8c3f-4d59-acba-c17efb4153e6))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5061,7 +5061,7 @@
       (net 13 "/Row5") (pinfunction "K") (pintype "passive") (tstamp c64fef3e-a215-47f8-b090-ff62b55efedc))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 52 "Net-(D15-Pad2)") (pinfunction "A") (pintype "passive") (tstamp be16e3de-3436-494b-9ec7-11c1e90832b4))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5111,7 +5111,7 @@
       (net 13 "/Row5") (pinfunction "K") (pintype "passive") (tstamp f7b28d86-d1f3-4143-a866-547f6fefb8ea))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 61 "Net-(D23-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 644e0bee-5527-4ab7-8b24-b7dd2d269cb9))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5161,7 +5161,7 @@
       (net 38 "/Row3") (pinfunction "K") (pintype "passive") (tstamp 446cf567-a6e0-44ea-bc2e-b3acc9cfc0bd))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 39 "Net-(D5-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 63620899-db39-4076-b115-8a9f2685955e))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5211,7 +5211,7 @@
       (net 94 "/Row6") (pinfunction "K") (pintype "passive") (tstamp 25053031-71b9-4dbc-b19e-b282d8aedc0f))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 71 "Net-(D32-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 30f072ea-8ece-4fb9-838f-4861b0fabab7))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5261,7 +5261,7 @@
       (net 13 "/Row5") (pinfunction "K") (pintype "passive") (tstamp 29b10f60-1cff-4c01-a21a-260e3d6da2a7))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 49 "Net-(D11-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 1cba954c-77d0-4b7b-b82b-9d25e2163660))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5311,7 +5311,7 @@
       (net 94 "/Row6") (pinfunction "K") (pintype "passive") (tstamp 487bd295-5b83-4088-869f-ad6654b5e77e))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 62 "Net-(D24-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 25f13ec5-b10f-4462-8aab-4821a9f841b6))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5361,7 +5361,7 @@
       (net 38 "/Row3") (pinfunction "K") (pintype "passive") (tstamp c2fd5b5d-7641-4084-96b8-f42a4638a100))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 68 "Net-(D29-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 3c8256f1-0b55-4038-9966-4f0475fb0575))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5411,7 +5411,7 @@
       (net 38 "/Row3") (pinfunction "K") (pintype "passive") (tstamp 988d2ac8-3b3e-4ab0-b6b1-441892025546))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 42 "Net-(D1-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 98422f61-91df-4f37-b5ee-9ada79e9ff45))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5461,7 +5461,7 @@
       (net 12 "/Row4") (pinfunction "K") (pintype "passive") (tstamp 1abceb31-816d-495e-acba-10302e2c7784))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 51 "Net-(D14-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 141897e3-91d5-4c10-bc07-9822f1d0bd79))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5511,7 +5511,7 @@
       (net 12 "/Row4") (pinfunction "K") (pintype "passive") (tstamp f9dc7d6b-1f42-4966-9ba5-27f1e84423f0))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 74 "Net-(D34-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 0366f74e-7cb9-44f7-a73b-3f6b10584984))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5561,7 +5561,7 @@
       (net 12 "/Row4") (pinfunction "K") (pintype "passive") (tstamp cbf748cf-0a57-4643-b099-4bfccaee6622))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 79 "Net-(D38-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 9287fc55-0f9e-41d5-b6ba-772eb3e36976))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5611,7 +5611,7 @@
       (net 12 "/Row4") (pinfunction "K") (pintype "passive") (tstamp 297a4f5f-65aa-4d17-98c1-0c86bb601520))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 46 "Net-(D18-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 846f3cf7-bb37-4886-8158-9a73de931013))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5661,7 +5661,7 @@
       (net 12 "/Row4") (pinfunction "K") (pintype "passive") (tstamp 66511671-6520-4cb1-84c3-963ca218f2f9))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 60 "Net-(D22-Pad2)") (pinfunction "A") (pintype "passive") (tstamp fa1c0291-e6fd-42fc-86a1-225a82861b60))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5711,7 +5711,7 @@
       (net 94 "/Row6") (pinfunction "K") (pintype "passive") (tstamp b4e9ffd0-10ce-4f91-810f-f68fbf66726b))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 55 "Net-(D12-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 6db017c8-4218-4e7c-8c33-f552b9a188a9))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5761,7 +5761,7 @@
       (net 13 "/Row5") (pinfunction "K") (pintype "passive") (tstamp c9b9e904-ec2c-44b5-bb9f-cefbe791e9ab))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 84 "Net-(D7-Pad2)") (pinfunction "A") (pintype "passive") (tstamp a4597e88-98db-466e-a01b-63f1259636e7))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5811,7 +5811,7 @@
       (net 94 "/Row6") (pinfunction "K") (pintype "passive") (tstamp e575a742-aeec-4e2b-8cd1-33a3f38b2386))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 53 "Net-(D16-Pad2)") (pinfunction "A") (pintype "passive") (tstamp c5583683-ae44-4c05-a23b-9356f369b5a0))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5861,7 +5861,7 @@
       (net 38 "/Row3") (pinfunction "K") (pintype "passive") (tstamp 9305e158-b3ff-460b-ad9b-735d807fea63))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 82 "Net-(D9-Pad2)") (pinfunction "A") (pintype "passive") (tstamp 969000e0-7409-4b2c-8659-7749424b358f))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5890,12 +5890,12 @@
   (gr_circle (center 107.65 66.21) (end 108.65 66.21) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp fcd0e196-8d7e-4c4c-a99c-c0d8a5f57856))
   (gr_line (start 178.1 94.762) (end 178.1 64.262) (layer "User.9") (width 0.15) (tstamp 04623b2c-141f-45d5-b606-ca93697b2487))
   (gr_line (start 183.11 56.98) (end 183.11 99.58) (layer "User.9") (width 0.15) (tstamp 0f16f15c-d889-430d-bdc7-8ae1f82b9520))
-  (gr_line (start 301.57 -18.08) (end 301.57 -78.08) (layer "User.9") (width 0.15) (tstamp 1584c8fa-3039-4079-bc47-1b5b80c5367b))
+  (gr_line (start 273.86 79.21) (end 273.86 19.21) (layer "User.9") (width 0.15) (tstamp 1584c8fa-3039-4079-bc47-1b5b80c5367b))
   (gr_line (start 183.11 56.98) (end 199.71 56.98) (layer "User.9") (width 0.15) (tstamp 2ce839a7-ae56-4836-a547-aefa450214ac))
   (gr_line (start 214.69 131.83) (end 244.69 131.83) (layer "User.9") (width 0.15) (tstamp 3c398f38-0d9a-4978-b0a3-bd2faaea9705))
-  (gr_line (start 199.57 -18.08) (end 199.57 -78.08) (layer "User.9") (width 0.15) (tstamp 51a43830-14f6-4a46-bf85-57c9e1423de5))
+  (gr_line (start 171.86 79.21) (end 171.86 19.21) (layer "User.9") (width 0.15) (tstamp 51a43830-14f6-4a46-bf85-57c9e1423de5))
   (gr_line (start 214.69 96.83) (end 244.69 96.83) (layer "User.9") (width 0.15) (tstamp 5dfb8f93-e4f6-47ec-b627-4e5b0e548ab4))
-  (gr_line (start 199.57 -18.08) (end 301.57 -18.08) (layer "User.9") (width 0.15) (tstamp 5ea7a41f-f860-4daa-a540-9fbd6ef6f536))
+  (gr_line (start 171.86 79.21) (end 273.86 79.21) (layer "User.9") (width 0.15) (tstamp 5ea7a41f-f860-4daa-a540-9fbd6ef6f536))
   (gr_line (start 112.1 94.762) (end 112.1 64.262) (layer "User.9") (width 0.15) (tstamp 77579cb8-2a2a-4b3b-b46a-2d485cbe99fc))
   (gr_line (start 111.973 94.762) (end 177.973 94.762) (layer "User.9") (width 0.15) (tstamp 800ae900-e504-44d1-9915-4a39b31fd276))
   (gr_line (start 183.11 99.58) (end 199.71 99.58) (layer "User.9") (width 0.15) (tstamp 8cbbddaa-560a-4858-a57e-0d4d594fb21f))
@@ -5903,11 +5903,11 @@
   (gr_line (start 112.1 64.262) (end 178.1 64.262) (layer "User.9") (width 0.15) (tstamp d7745b46-711a-4d08-adf4-5420ad94e1d9))
   (gr_line (start 244.69 96.83) (end 244.69 131.83) (layer "User.9") (width 0.15) (tstamp db4eca14-2b11-4a86-a337-7c2c951e01de))
   (gr_line (start 214.69 96.83) (end 214.69 131.83) (layer "User.9") (width 0.15) (tstamp df1dfced-018d-4945-a3a7-025f4b9800ea))
-  (gr_line (start 199.57 -78.08) (end 301.57 -78.08) (layer "User.9") (width 0.15) (tstamp ffb50673-07e1-4205-90a4-093bb79a93ea))
+  (gr_line (start 171.86 19.21) (end 273.86 19.21) (layer "User.9") (width 0.15) (tstamp ffb50673-07e1-4205-90a4-093bb79a93ea))
   (gr_text "Raspberry Pi Zero" (at 145.0365 79.512) (layer "User.9") (tstamp 13dfcd3b-0f2c-4213-9f4e-8f701fa294b3)
     (effects (font (size 4 4) (thickness 0.15)))
   )
-  (gr_text "Display" (at 250.57 -48.08) (layer "User.9") (tstamp 66038996-a46c-4850-9f62-775499845652)
+  (gr_text "Display" (at 222.86 49.21) (layer "User.9") (tstamp 66038996-a46c-4850-9f62-775499845652)
     (effects (font (size 6 6) (thickness 0.15)))
   )
   (gr_text "Charging Module" (at 191.41 78.28 270) (layer "User.9") (tstamp ec9041c6-6700-4963-9711-2f33daa5cfd3)
