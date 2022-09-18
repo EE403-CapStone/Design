@@ -501,19 +501,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2459841.516759259
+2459841.520520833
   9
 $TDUUPDATE
  40
-2459841.725092593
+2459841.728854167
   9
 $TDINDWG
  40
-0.0071180556
+0.0081944444
   9
 $TDUSRTIMER
  40
-0.0071180556
+0.0081944444
   9
 $USRTIMER
  70
@@ -553,7 +553,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-276
+2E3
   9
 $SURFTAB1
  70
@@ -937,7 +937,7 @@ $FINGERPRINTGUID
   9
 $VERSIONGUID
   2
-{B4329086-4354-C146-B244-1959B4CBD204}
+{ACE43B0C-C07D-E847-BEAF-1924FD2D90DE}
   9
 $EXTNAMES
 290
@@ -1343,7 +1343,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        2
 280
      0
 281
@@ -1359,7 +1359,7 @@ ObjectDBX Classes
  90
      1025
  91
-        1
+        2
 280
      0
 281
@@ -1407,7 +1407,727 @@ ObjectDBX Classes
  90
         0
  91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_ANCHOR
+  2
+AecDbDispRepAnchor
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_ANCHOR_ENT_TO_NODE
+  2
+AecDbDispRepAnchorEntToNode
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_ENT
+  2
+AecDbDispPropsEnt
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
         3
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_ANCHOR_TAG_TO_ENT
+  2
+AecDbDispRepAnchorTagToEnt
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_CLIP_VOLUME_MODEL
+  2
+AecDbDispRepClipVolModel
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_CLIP_VOLUME
+  2
+AecDbDispPropsClipVol
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        2
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_CLIP_VOLUME_PLAN
+  2
+AecDbDispRepClipVolPlan
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_ANCHOR_EXT_TAG_TO_ENT
+  2
+AecDbDispRepAnchorExtendedTagToEnt
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_2D_SECTION
+  2
+AecDbDispRep2dSection
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_2D_SECTION
+  2
+AecDbDispProps2dSection
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MVBLOCK_REF
+  2
+AecDbDispRepMvBlockRef
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_CLIP_VOLUME_RESULT_SUBDIV
+  2
+AecDbDispRepClipVolResSubDiv
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_CLIP_VOLUME_RESULT
+  2
+AecDbDispPropsClipVolResSubDiv
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_ENT_REF
+  2
+AecDbDispRepEntRef
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_ENT_REF
+  2
+AecDbDispPropsEntRef
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_LAYOUT_CURVE
+  2
+AecDbDispRepLayoutCurve
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_LAYOUT_CURVE
+  2
+AecDbDispPropsLayoutCurve
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_DISPLAYTHEME
+  2
+AecDbDispRepDisplayTheme
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_DISPLAYTHEME
+  2
+AecDbDispPropsDisplayTheme
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_LAYOUT_GRID3D
+  2
+AecDbDispRepLayoutGrid3d
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_LAYOUT_GRID3D
+  2
+AecDbDispPropsLayoutGrid3d
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MASKBLOCK_REF
+  2
+AecDbDispRepMaskBlockRef
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_MASKBLOCK
+  2
+AecDbDispPropsMaskBlock
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_EDITINPLACEPROFILE
+  2
+AecDbDispRepEditInPlaceProfile
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_EDITINPLACEPROFILE_MODEL
+  2
+AecDbDispPropsEditInPlaceProfile
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_CLIP_VOLUME_RESULT
+  2
+AecDbDispRepClipVolResult
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_LAYOUT_GRID2D
+  2
+AecDbDispRepLayoutGrid2d
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_LAYOUT_GRID2D
+  2
+AecDbDispPropsLayoutGrid2d
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MATERIAL
+  2
+AecDbDispRepMaterial
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_MATERIAL
+  2
+AecDbDispPropsMaterial
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_POLYGON_TRUECOLOUR
+  2
+AecDbDispRepPolygonTrueColour
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_POLYGON_TRUECOLOUR
+  2
+AecDbDispPropsPolygonTrueColour
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MVBLOCK_REF_MODEL
+  2
+AecDbDispRepMvBlockRefModel
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_POLYGON_MODEL
+  2
+AecDbDispRepPolygonModel
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_POLYGON_MODEL
+  2
+AecDbDispPropsPolygonModel
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_SLICE
+  2
+AecDbDispRepSlice
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_SLICE
+  2
+AecDbDispPropsSlice
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MASS_GROUP_MODEL
+  2
+AecDbDispRepMassGroupModel
+  3
+AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_MASS_GROUP
+  2
+AecDbDispPropsMassGroup
+  3
+AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        2
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MASS_ELEM_SCHEM
+  2
+AecDbDispRepMassElemSchem
+  3
+AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_PROPS_MASS_ELEM_MODEL
+  2
+AecDbDispPropsMassElem
+  3
+AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        2
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MASS_ELEM_MODEL
+  2
+AecDbDispRepMassElemModel
+  3
+AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_MASS_GROUP_PLAN
+  2
+AecDbDispRepMassGroupPlan
+  3
+AecBaseEx80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_SET
+  2
+AecDbDispRepSet
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        8
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+AEC_DISP_REP_CONFIG
+  2
+AecDbDispRepConfig
+  3
+AecBase80|Product Desc: Autodesk Architectural Desktop 2007 |Company: Autodesk,Inc. |WEB Address: www.autodesk.com
+ 90
+      129
+ 91
+        1
 280
      0
 281
@@ -1459,9 +2179,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-125.9113988277817
+124.3732923301991
  22
-74.58086725330375
+66.67387188810659
  13
 0.0
  23
@@ -1487,9 +2207,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-429.7436040603743
+166.5687001117418
  41
-2.345252774352651
+2.429299363057324
  42
 50.0
  43
@@ -1803,7 +2523,7 @@ VIEW
 100
 AcDbSymbolTable
  70
-     0
+     1
   0
 ENDTAB
   0
@@ -2367,33 +3087,9 @@ AcDbLine
  30
 0.0
  11
-101.7445511797416
+101.7445511797417
  21
-95.28130451054321
- 31
-0.0
-  0
-LINE
-  5
-24A
-330
-1F
-100
-AcDbEntity
-  8
-0
-100
-AcDbLine
- 10
-103.7445511797416
- 20
-93.2813045105432
- 30
-0.0
- 11
-199.7445511797416
- 21
-93.28130451054322
+101.2813045105432
  31
 0.0
   0
@@ -2501,58 +3197,6 @@ AcDbArc
   0
 ARC
   5
-256
-330
-1F
-100
-AcDbEntity
-  8
-0
-100
-AcDbCircle
- 10
-103.7445511797416
- 20
-95.28130451054321
- 30
-0.0
- 40
-2.0
-100
-AcDbArc
- 50
-180.0
- 51
-270.0
-  0
-ARC
-  5
-257
-330
-1F
-100
-AcDbEntity
-  8
-0
-100
-AcDbCircle
- 10
-199.7445511797416
- 20
-91.28130451054323
- 30
-0.0
- 40
-2.0
-100
-AcDbArc
- 50
-0.0
- 51
-90.0
-  0
-ARC
-  5
 258
 330
 1F
@@ -2639,26 +3283,6 @@ AcDbCircle
   0
 CIRCLE
   5
-265
-330
-1F
-100
-AcDbEntity
-  8
-0
-100
-AcDbCircle
- 10
-199.7445511797416
- 20
-91.28130451054323
- 30
-0.0
- 40
-1.0
-  0
-CIRCLE
-  5
 266
 330
 1F
@@ -2672,6 +3296,150 @@ AcDbCircle
 199.7445511797416
  20
 59.28130451054321
+ 30
+0.0
+ 40
+1.0
+  0
+LINE
+  5
+2C4
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+201.7445511797417
+ 20
+93.28130451054324
+ 30
+0.0
+ 11
+201.7445511797417
+ 21
+91.28130451054323
+ 31
+0.0
+  0
+LINE
+  5
+2C5
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+201.7445511797417
+ 20
+93.28130451054324
+ 30
+0.0
+ 11
+201.7445511797417
+ 21
+97.28130451054324
+ 31
+0.0
+  0
+LINE
+  5
+2C6
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbLine
+ 10
+199.7445511797416
+ 20
+99.28130451054324
+ 30
+0.0
+ 11
+103.7445511797417
+ 21
+99.28130451054325
+ 31
+0.0
+  0
+ARC
+  5
+2C7
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbCircle
+ 10
+103.7445511797417
+ 20
+101.2813045105432
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+180.0
+ 51
+270.0
+  0
+ARC
+  5
+2C8
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbCircle
+ 10
+199.7445511797416
+ 20
+97.28130451054324
+ 30
+0.0
+ 40
+2.0
+100
+AcDbArc
+ 50
+0.0
+ 51
+90.0
+  0
+CIRCLE
+  5
+2C9
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbCircle
+ 10
+199.7445511797416
+ 20
+97.28130451054324
  30
 0.0
  40
@@ -2751,7 +3519,7 @@ ACAD_VISUALSTYLE
   3
 ACDB_RECOMPOSE_DATA
 350
-269
+2D2
   3
 AcDbVariableDictionary
 350
@@ -2759,7 +3527,23 @@ AcDbVariableDictionary
   3
 AcDsDecomposeData
 350
-26F
+2D8
+  3
+AEC_DISP_REP_CONFIGURATIONS
+350
+2B9
+  3
+AEC_DISP_REP_SETS
+350
+2B0
+  3
+AEC_DISP_REPS
+350
+27E
+  3
+AEC_DISPLAY_PROPS_DEFAULTS
+350
+281
   3
 AEC_VARS
 350
@@ -2866,6 +3650,10 @@ AcDbDictionary
 Imperial24
 350
 1AC
+  3
+Metric50
+350
+278
   0
 DICTIONARY
   5
@@ -3190,6 +3978,10 @@ AcDbDictionary
 Imperial24
 350
 1AA
+  3
+Metric50
+350
+277
   0
 DICTIONARY
   5
@@ -3325,7 +4117,7 @@ X-Ray
   0
 XRECORD
   5
-269
+2D2
 102
 {ACAD_REACTORS
 330
@@ -3397,7 +4189,7 @@ LAYERNOTIFY
   0
 DICTIONARY
   5
-26F
+2D8
 102
 {ACAD_REACTORS
 330
@@ -3413,15 +4205,307 @@ AcDbDictionary
   3
 AcDsRecords
 350
-271
+2DA
   3
 AcDsSchemas
 350
-270
+2D9
 1001
 ACAD
 1070
      2
+  0
+DICTIONARY
+  5
+2B9
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+2BA
+  0
+DICTIONARY
+  5
+2B0
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Elevation
+350
+2B4
+  3
+Model
+350
+2B1
+  3
+Model High Detail
+350
+2B8
+  3
+Model Low Detail
+350
+2B7
+  3
+Plan
+350
+2B2
+  3
+Plan High Detail
+350
+2B6
+  3
+Plan Low Detail
+350
+2B5
+  3
+Reflected
+350
+2B3
+  0
+DICTIONARY
+  5
+27E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+AecDbDispRep2dSection
+350
+28B
+  3
+AecDbDispRepAnchor
+350
+27F
+  3
+AecDbDispRepAnchorEntToNode
+350
+280
+  3
+AecDbDispRepAnchorExtendedTagToEnt
+350
+289
+  3
+AecDbDispRepAnchorTagToEnt
+350
+283
+  3
+AecDbDispRepClipVolModel
+350
+285
+  3
+AecDbDispRepClipVolPlan
+350
+287
+  3
+AecDbDispRepClipVolResSubDiv
+350
+28E
+  3
+AecDbDispRepClipVolResult
+350
+29C
+  3
+AecDbDispRepDisplayTheme
+350
+294
+  3
+AecDbDispRepEditInPlaceProfile
+350
+29A
+  3
+AecDbDispRepEntRef
+350
+290
+  3
+AecDbDispRepLayoutCurve
+350
+292
+  3
+AecDbDispRepLayoutGrid2d
+350
+29D
+  3
+AecDbDispRepLayoutGrid3d
+350
+296
+  3
+AecDbDispRepMaskBlockRef
+350
+298
+  3
+AecDbDispRepMassElemModel
+350
+2AC
+  3
+AecDbDispRepMassElemSchem
+350
+2AA
+  3
+AecDbDispRepMassGroupModel
+350
+2A8
+  3
+AecDbDispRepMassGroupPlan
+350
+2AE
+  3
+AecDbDispRepMaterial
+350
+29F
+  3
+AecDbDispRepMvBlockRef
+350
+28D
+  3
+AecDbDispRepMvBlockRefModel
+350
+2A3
+  3
+AecDbDispRepPolygonModel
+350
+2A4
+  3
+AecDbDispRepPolygonTrueColour
+350
+2A1
+  3
+AecDbDispRepSlice
+350
+2A6
+  0
+DICTIONARY
+  5
+281
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+*A1
+350
+282
+  3
+*A10
+350
+295
+  3
+*A11
+350
+297
+  3
+*A12
+350
+299
+  3
+*A13
+350
+29B
+  3
+*A14
+350
+29E
+  3
+*A15
+350
+2A0
+  3
+*A16
+350
+2A2
+  3
+*A17
+350
+2A5
+  3
+*A18
+350
+2A7
+  3
+*A19
+350
+2A9
+  3
+*A2
+350
+284
+  3
+*A20
+350
+2AB
+  3
+*A21
+350
+2AD
+  3
+*A22
+350
+2AF
+  3
+*A3
+350
+286
+  3
+*A4
+350
+288
+  3
+*A5
+350
+28A
+  3
+*A6
+350
+28C
+  3
+*A7
+350
+28F
+  3
+*A8
+350
+291
+  3
+*A9
+350
+293
   0
 DICTIONARY
   5
@@ -3487,10 +4571,6 @@ AcDbSortentsTable
   5
 254
 331
-24A
-  5
-255
-331
 24B
   5
 257
@@ -3507,13 +4587,21 @@ AcDbSortentsTable
   5
 24B
 331
-257
-  5
-258
-331
 258
   5
 247
+331
+2C6
+  5
+2C7
+331
+2C7
+  5
+2C8
+331
+2C8
+  5
+2C6
   0
 ACDBDETAILVIEWSTYLE
   5
@@ -3521,7 +4609,7 @@ ACDBDETAILVIEWSTYLE
 102
 {ACAD_XDICTIONARY
 360
-274
+2DD
 102
 }
 102
@@ -3592,6 +4680,100 @@ AcDbDetailViewStyle
         1
 300
 %<\AcVar ViewType \f "%tc1">% %<\AcVar ViewDetailId>%\PSCALE %<\AcVar ViewScale \f "%sn">%
+ 71
+     4
+340
+16
+ 90
+       25
+ 62
+   256
+340
+16
+ 90
+       25
+ 62
+   256
+280
+     0
+  0
+ACDBDETAILVIEWSTYLE
+  5
+278
+102
+{ACAD_XDICTIONARY
+360
+2E1
+102
+}
+102
+{ACAD_REACTORS
+330
+1AB
+102
+}
+330
+1AB
+100
+AcDbModelDocViewStyle
+ 70
+     0
+  3
+Metric50
+290
+     0
+100
+AcDbDetailViewStyle
+ 70
+     0
+ 71
+     0
+ 90
+        3
+ 71
+     1
+340
+11
+ 62
+   256
+ 40
+5.0
+340
+0
+ 62
+   256
+ 40
+5.0
+300
+
+ 40
+0.0
+280
+     1
+ 71
+     2
+340
+16
+ 90
+       25
+ 62
+   256
+ 71
+     3
+340
+11
+ 62
+   256
+ 40
+5.0
+ 90
+        0
+ 40
+15.0
+ 90
+        1
+300
+%<\AcVar ViewDetailId>% (%<\AcVar ViewScale \f "%sn">%)
  71
      4
 340
@@ -5345,7 +6527,7 @@ ACDBSECTIONVIEWSTYLE
 102
 {ACAD_XDICTIONARY
 360
-272
+2DB
 102
 }
 102
@@ -5434,6 +6616,132 @@ I, O, Q, S, X, Z
         1
 300
 %<\AcVar ViewType \f "%tc1">% %<\AcVar ViewSectionStartId>%-%<\AcVar ViewSectionEndId>%\PSCALE %<\AcVar ViewScale \f "%sn">%
+ 71
+     4
+ 62
+   256
+ 62
+   257
+300
+ANSI31
+ 40
+1.0
+ 90
+        0
+290
+     0
+290
+     0
+ 90
+        6
+ 40
+0.0
+ 40
+1.570796326794896
+ 40
+0.2617993877991494
+ 40
+1.308996938995747
+ 40
+-0.2617993877991494
+ 40
+1.832595714594046
+  0
+ACDBSECTIONVIEWSTYLE
+  5
+277
+102
+{ACAD_XDICTIONARY
+360
+2DF
+102
+}
+102
+{ACAD_REACTORS
+330
+1A8
+102
+}
+330
+1A8
+100
+AcDbModelDocViewStyle
+ 70
+     0
+  3
+Metric50
+290
+     0
+100
+AcDbSectionViewStyle
+ 70
+     0
+ 71
+     0
+ 90
+      102
+ 71
+     1
+340
+11
+ 62
+   256
+ 40
+5.0
+340
+0
+340
+0
+ 62
+   256
+ 40
+5.0
+300
+I, O, Q, S, X, Z
+ 40
+10.0
+ 90
+        0
+ 40
+2.5
+ 90
+        0
+ 71
+     2
+340
+16
+ 90
+       25
+ 62
+   256
+340
+16
+ 90
+       50
+ 62
+   256
+ 40
+5.0
+ 40
+2.5
+ 40
+5.0
+ 71
+     3
+340
+11
+ 62
+   256
+ 40
+5.0
+ 90
+        0
+ 40
+15.0
+ 90
+        1
+300
+%<\AcVar ViewSectionStartId>%-%<\AcVar ViewSectionEndId>% (%<\AcVar ViewScale \f "%sn">%)
  71
      4
  62
@@ -12263,15 +13571,15 @@ DictionaryVariables
   0
 DICTIONARY
   5
-271
+2DA
 102
 {ACAD_REACTORS
 330
-26F
+2D8
 102
 }
 330
-26F
+2D8
 100
 AcDbDictionary
 281
@@ -12279,43 +13587,43 @@ AcDbDictionary
   0
 DICTIONARY
   5
-270
+2D9
 102
 {ACAD_REACTORS
 330
-26F
+2D8
 102
 }
 330
-26F
+2D8
 100
 AcDbDictionary
 281
      1
   3
-2549601007776
+2650653595184
 350
-26A
+2D3
   3
-2549601007792
+2650653595200
 350
-26B
+2D4
   3
-2549601007808
+2650653595216
 350
-26C
+2D5
   3
-2549601007824
+2650653595232
 350
-26D
+2D6
   3
-2549601007840
+2650653595248
 350
-26E
+2D7
   0
 DICTIONARY
   5
-274
+2DD
 330
 1AC
 100
@@ -12327,7 +13635,23 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-275
+2DE
+  0
+DICTIONARY
+  5
+2E1
+330
+278
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+2E2
   0
 DICTIONARY
   5
@@ -12415,7 +13739,7 @@ REFLECTIONTILE
   0
 DICTIONARY
   5
-272
+2DB
 330
 1AA
 100
@@ -12427,7 +13751,23 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-273
+2DC
+  0
+DICTIONARY
+  5
+2DF
+330
+277
+100
+AcDbDictionary
+280
+     1
+281
+     1
+  3
+ACAD_XREC_ROUNDTRIP
+360
+2E0
   0
 DICTIONARY
   5
@@ -12443,19 +13783,19 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-268
+2D1
   0
 XRECORD
   5
-26A
+2D3
 102
 {ACAD_REACTORS
 330
-270
+2D9
 102
 }
 330
-270
+2D9
 100
 AcDbXrecord
 280
@@ -12465,7 +13805,7 @@ AcDb_Thumbnail_Schema
 102
 {ATTRRECORD
 341
-26B
+2D4
   2
 AcDbDs::TreatedAsObjectData
 280
@@ -12477,7 +13817,7 @@ ATTRRECORD}
 102
 {ATTRRECORD
 341
-26C
+2D5
   2
 AcDbDs::Legacy
 280
@@ -12495,7 +13835,7 @@ AcDbDs::ID
 102
 {ATTRRECORD
 341
-26D
+2D6
   2
 AcDs:Indexable
 280
@@ -12507,7 +13847,7 @@ ATTRRECORD}
 102
 {ATTRRECORD
 341
-26E
+2D7
   2
 AcDbDs::HandleAttribute
 280
@@ -12525,15 +13865,15 @@ Thumbnail_Data
   0
 XRECORD
   5
-26B
+2D4
 102
 {ACAD_REACTORS
 330
-270
+2D9
 102
 }
 330
-270
+2D9
 100
 AcDbXrecord
 280
@@ -12549,15 +13889,15 @@ AcDbDs::TreatedAsObjectData
   0
 XRECORD
   5
-26C
+2D5
 102
 {ACAD_REACTORS
 330
-270
+2D9
 102
 }
 330
-270
+2D9
 100
 AcDbXrecord
 280
@@ -12573,15 +13913,15 @@ AcDbDs::Legacy
   0
 XRECORD
   5
-26D
+2D6
 102
 {ACAD_REACTORS
 330
-270
+2D9
 102
 }
 330
-270
+2D9
 100
 AcDbXrecord
 280
@@ -12597,15 +13937,15 @@ AcDs:Indexable
   0
 XRECORD
   5
-26E
+2D7
 102
 {ACAD_REACTORS
 330
-270
+2D9
 102
 }
 330
-270
+2D9
 100
 AcDbXrecord
 280
@@ -12623,15 +13963,15 @@ AcDbDs::HandleAttribute
   0
 XRECORD
   5
-275
+2DE
 102
 {ACAD_REACTORS
 330
-274
+2DD
 102
 }
 330
-274
+2DD
 100
 AcDbXrecord
 280
@@ -12640,6 +13980,30 @@ AcDbXrecord
 DISPLAYNAME
   1
 Imperial24
+102
+FLAGS
+ 90
+        0
+  0
+XRECORD
+  5
+2E2
+102
+{ACAD_REACTORS
+330
+2E1
+102
+}
+330
+2E1
+100
+AcDbXrecord
+280
+     1
+102
+DISPLAYNAME
+  1
+Metric50
 102
 FLAGS
  90
@@ -13103,15 +14467,15 @@ AcDbXrecord
   0
 XRECORD
   5
-273
+2DC
 102
 {ACAD_REACTORS
 330
-272
+2DB
 102
 }
 330
-272
+2DB
 100
 AcDbXrecord
 280
@@ -13125,9 +14489,33 @@ FLAGS
  90
         0
   0
+XRECORD
+  5
+2E0
+102
+{ACAD_REACTORS
+330
+2DF
+102
+}
+330
+2DF
+100
+AcDbXrecord
+280
+     1
+102
+DISPLAYNAME
+  1
+Metric50
+102
+FLAGS
+ 90
+        0
+  0
 CELLSTYLEMAP
   5
-268
+2D1
 102
 {ACAD_REACTORS
 330
@@ -13911,9 +15299,9 @@ Thumbnail_Data
 280
     15
  94
-      896
+      984
 310
-89504E470D0A1A0A0000000D49484452000001000000009108030000001BE1960600000300504C5445212830FFFFFF2128300000000000000000000000000000000000000000000000000000330000660000990000CC0000FF0033000033330033660033990033CC0033FF0066000066330066660066990066CC0066FF0099
+89504E470D0A1A0A0000000D4948445200000100000000690803000000E2200D7200000300504C5445212830FFFFFF2128300000000000000000000000000000000000000000000000000000330000660000990000CC0000FF0033000033330033660033990033CC0033FF0066000066330066660066990066CC0066FF0099
 310
 000099330099660099990099CC0099FF00CC0000CC3300CC6600CC9900CCCC00CCFF00FF0000FF3300FF6600FF9900FFCC00FFFF3300003300333300663300993300CC3300FF3333003333333333663333993333CC3333FF3366003366333366663366993366CC3366FF3399003399333399663399993399CC3399FF33CC00
 310
@@ -13925,9 +15313,9 @@ FF3366FF6666FF9966FFCC66FFFF9900009900339900669900999900CC9900FF9933009933339933
 310
 FF3366FF3399FF33CCFF33FFFF6600FF6633FF6666FF6699FF66CCFF66FFFF9900FF9933FF9966FF9999FF99CCFF99FFFFCC00FFCC33FFCC66FFCC99FFCCCCFFCCFFFFFF00FFFF33FFFF66FFFF99FFFFCCFFFFFF0000000D0D0D1A1A1A2828283535354343435050505D5D5D6B6B6B787878868686939393A1A1A1AEAEAEBB
 310
-BBBBC9C9C9D6D6D6E4E4E4F1F1F1FFFFFF0000000000000000000000000000000000000000000000000000000000002E4550F10000003B4944415478DAEDC13101000000C2A0F54F6D0B2FA0000000000000000000000000000000000000000000000000000000000000000000000000CE06919100016C9A5B1B0000000049
+BBBBC9C9C9D6D6D6E4E4E4F1F1F1FFFFFF0000000000000000000000000000000000000000000000000000000000002E4550F1000000934944415478DAEDD2C10900210C45C1F4DF6FEEDB80A0E006249939E620F8F811000014C895510122B797E60B3839B55EC0D94D000104104000010410400001041040000104104080
 310
-454E44AE426082
+D6017278805105D65FCD2B0D025C3D383C404C5F4084000208208000020820800002082080000208208000020820C0C301F2FD178B17908F3F58BE80FF050000000000000000000000EC7C51D7064A43A775210000000049454E44AE426082
   0
 ENDSEC
   0
