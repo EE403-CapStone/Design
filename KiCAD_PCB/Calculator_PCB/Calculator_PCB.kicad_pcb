@@ -3657,10 +3657,10 @@
       (net 5 "Net-(C16-Pad2)") (pinfunction "1") (pintype "passive") (tstamp 2bd15b33-4800-437c-9c61-5b0fa8ae3113))
     (pad "2" smd rect locked (at 4.5 0 180) (size 5.6 2.1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 22 "/XIN_20") (pinfunction "2") (pintype "passive") (tstamp 52ace3fa-baad-4041-b260-aadde429b3ed))
-    (model "${KISYS3DMOD}/Crystal.3dshapes/Crystal_SMD_HC49-SD.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/ABLS-12.000MHZ/ABLS-12.000MHZ-B4-T.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz -90 0 0))
     )
   )
 
