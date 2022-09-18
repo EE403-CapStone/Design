@@ -81,9 +81,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "Calculator_Gerber/")
     )
   )
 
@@ -779,9 +779,9 @@
     (fp_line (start 1 0.625) (end -1 0.625) (layer "F.Fab") (width 0.1) (tstamp 1adad885-11a1-47d1-a04c-451c73fb7a75))
     (fp_line (start -1 -0.625) (end 1 -0.625) (layer "F.Fab") (width 0.1) (tstamp 4d8c4454-0ec0-42de-b63e-23bc6a415305))
     (fp_line (start 1 -0.625) (end 1 0.625) (layer "F.Fab") (width 0.1) (tstamp df7a915a-2f21-49b1-9e14-dde4c4fa09ae))
-    (pad "1" smd roundrect (at -1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
+    (pad "1" smd roundrect (at -1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2127659574)
       (net 36 "VBUS") (pintype "passive") (tstamp 5ec71415-e01c-4daa-ab47-751d8333dd47))
-    (pad "2" smd roundrect (at 1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
+    (pad "2" smd roundrect (at 1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2127659574)
       (net 11 "GND") (pintype "passive") (tstamp 8bdf5382-ae8a-4da0-a17e-8259042acf63))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
@@ -1827,9 +1827,9 @@
     (fp_line (start 1 0.625) (end -1 0.625) (layer "F.Fab") (width 0.1) (tstamp 6ee8fba2-f3f2-4a59-adca-1fbb616602e9))
     (fp_line (start -1 0.625) (end -1 -0.625) (layer "F.Fab") (width 0.1) (tstamp 95b6d61e-4add-4577-ae48-b8bd21fa4f72))
     (fp_line (start 1 -0.625) (end 1 0.625) (layer "F.Fab") (width 0.1) (tstamp 989df294-0273-4c46-8b94-b37874ff50a9))
-    (pad "1" smd roundrect (at -1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
+    (pad "1" smd roundrect (at -1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2127659574)
       (net 7 "+3V3") (pintype "passive") (tstamp 9a76f38e-c286-4e02-8aee-9160d27ed6e0))
-    (pad "2" smd roundrect (at 1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
+    (pad "2" smd roundrect (at 1.0375 0) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2127659574)
       (net 11 "GND") (pintype "passive") (tstamp f0fded9b-71a2-4d8a-956d-9e8f8e150b1e))
     (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
       (offset (xyz 0 0 0))
@@ -2950,10 +2950,10 @@
     (fp_line (start 3.5 -3.5) (end 3.5 3.5) (layer "F.Fab") (width 0.1) (tstamp 71092c9d-36c2-49d8-ad24-ae49b983e321))
     (fp_line (start -3.5 3.5) (end -3.5 -2.5) (layer "F.Fab") (width 0.1) (tstamp 9004fdb7-6200-45ea-9d0f-58beaf12d90b))
     (fp_line (start -2.5 -3.5) (end 3.5 -3.5) (layer "F.Fab") (width 0.1) (tstamp dd1b4384-5f2a-47e8-ad2c-675deb3d1f7f))
-    (pad "" smd roundrect locked (at -0.6375 -0.6375) (size 1.084435 1.084435) (layers "F.Paste") (roundrect_rratio 0.230535) (tstamp 38aaf2b1-3bf7-4863-b743-c3863a3a99ca))
-    (pad "" smd roundrect locked (at 0.6375 0.6375) (size 1.084435 1.084435) (layers "F.Paste") (roundrect_rratio 0.230535) (tstamp 47bee9dd-8229-4e49-9c70-4dcc0f2a0fc4))
-    (pad "" smd roundrect locked (at 0.6375 -0.6375) (size 1.084435 1.084435) (layers "F.Paste") (roundrect_rratio 0.230535) (tstamp 5834f0c8-ab05-4918-a54f-9a056bfbf535))
-    (pad "" smd roundrect locked (at -0.6375 0.6375) (size 1.084435 1.084435) (layers "F.Paste") (roundrect_rratio 0.230535) (tstamp db20af21-3648-4417-bf32-46907fc642ca))
+    (pad "" smd roundrect locked (at -0.6375 -0.6375) (size 1.084435 1.084435) (layers "F.Paste") (roundrect_rratio 0.2305347946) (tstamp 38aaf2b1-3bf7-4863-b743-c3863a3a99ca))
+    (pad "" smd roundrect locked (at 0.6375 0.6375) (size 1.084435 1.084435) (layers "F.Paste") (roundrect_rratio 0.2305347946) (tstamp 47bee9dd-8229-4e49-9c70-4dcc0f2a0fc4))
+    (pad "" smd roundrect locked (at 0.6375 -0.6375) (size 1.084435 1.084435) (layers "F.Paste") (roundrect_rratio 0.2305347946) (tstamp 5834f0c8-ab05-4918-a54f-9a056bfbf535))
+    (pad "" smd roundrect locked (at -0.6375 0.6375) (size 1.084435 1.084435) (layers "F.Paste") (roundrect_rratio 0.2305347946) (tstamp db20af21-3648-4417-bf32-46907fc642ca))
     (pad "1" smd roundrect locked (at -3.4375 -2.6) (size 0.875 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 7 "+3V3") (pinfunction "IOVDD") (pintype "power_in") (tstamp 7de7d077-3f12-4b27-affe-30538def9aa8))
     (pad "2" smd roundrect locked (at -3.4375 -2.2) (size 0.875 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
@@ -5868,21 +5868,9 @@
     )
   )
 
-  (gr_line (start 178.1 94.762) (end 178.1 64.262) (layer "B.SilkS") (width 0.15) (tstamp 04623b2c-141f-45d5-b606-ca93697b2487))
-  (gr_line (start 182.9366 63.79) (end 182.9366 106.39) (layer "B.SilkS") (width 0.15) (tstamp 0f16f15c-d889-430d-bdc7-8ae1f82b9520))
   (gr_line (start 301.57 -18.08) (end 301.57 -78.08) (layer "B.SilkS") (width 0.15) (tstamp 1584c8fa-3039-4079-bc47-1b5b80c5367b))
-  (gr_line (start 182.9366 63.79) (end 199.5366 63.79) (layer "B.SilkS") (width 0.15) (tstamp 2ce839a7-ae56-4836-a547-aefa450214ac))
-  (gr_line (start 208.2 132.5) (end 238.2 132.5) (layer "B.SilkS") (width 0.15) (tstamp 3c398f38-0d9a-4978-b0a3-bd2faaea9705))
   (gr_line (start 199.57 -18.08) (end 199.57 -78.08) (layer "B.SilkS") (width 0.15) (tstamp 51a43830-14f6-4a46-bf85-57c9e1423de5))
-  (gr_line (start 208.2 97.5) (end 238.2 97.5) (layer "B.SilkS") (width 0.15) (tstamp 5dfb8f93-e4f6-47ec-b627-4e5b0e548ab4))
   (gr_line (start 199.57 -18.08) (end 301.57 -18.08) (layer "B.SilkS") (width 0.15) (tstamp 5ea7a41f-f860-4daa-a540-9fbd6ef6f536))
-  (gr_line (start 112.1 94.762) (end 112.1 64.262) (layer "B.SilkS") (width 0.15) (tstamp 77579cb8-2a2a-4b3b-b46a-2d485cbe99fc))
-  (gr_line (start 111.973 94.762) (end 177.973 94.762) (layer "B.SilkS") (width 0.15) (tstamp 800ae900-e504-44d1-9915-4a39b31fd276))
-  (gr_line (start 182.9366 106.39) (end 199.5366 106.39) (layer "B.SilkS") (width 0.15) (tstamp 8cbbddaa-560a-4858-a57e-0d4d594fb21f))
-  (gr_line (start 199.5366 63.79) (end 199.5366 106.39) (layer "B.SilkS") (width 0.15) (tstamp 9b65c9d0-858c-4826-94e3-1e53a6bb86da))
-  (gr_line (start 112.1 64.262) (end 178.1 64.262) (layer "B.SilkS") (width 0.15) (tstamp d7745b46-711a-4d08-adf4-5420ad94e1d9))
-  (gr_line (start 238.2 97.5) (end 238.2 132.5) (layer "B.SilkS") (width 0.15) (tstamp db4eca14-2b11-4a86-a337-7c2c951e01de))
-  (gr_line (start 208.2 97.5) (end 208.2 132.5) (layer "B.SilkS") (width 0.15) (tstamp df1dfced-018d-4945-a3a7-025f4b9800ea))
   (gr_line (start 199.57 -78.08) (end 301.57 -78.08) (layer "B.SilkS") (width 0.15) (tstamp ffb50673-07e1-4205-90a4-093bb79a93ea))
   (gr_line (start 79.65 142.21) (end 207.65 142.21) (layer "Edge.Cuts") (width 0.2) (tstamp 024aec87-418d-43e2-982b-d40b3ec576b4))
   (gr_circle (center 207.65 140.21) (end 208.65 140.21) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp 1437ba0b-0053-41eb-bc61-cbccf6279fc9))
@@ -5904,16 +5892,28 @@
   (gr_line (start 79.65 64.21) (end 107.65 64.21) (layer "Edge.Cuts") (width 0.2) (tstamp d6a7f71a-4da6-4997-9a3d-af77c0308253))
   (gr_line (start 209.65 106.21) (end 209.65 108.21) (layer "Edge.Cuts") (width 0.2) (tstamp e2e6cccb-54a1-4e96-9738-4d65179c25dd))
   (gr_circle (center 107.65 66.21) (end 108.65 66.21) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp fcd0e196-8d7e-4c4c-a99c-c0d8a5f57856))
-  (gr_text "Raspberry Pi Zero" (at 145.0365 79.512) (layer "B.SilkS") (tstamp 13dfcd3b-0f2c-4213-9f4e-8f701fa294b3)
-    (effects (font (size 4 4) (thickness 0.15)))
-  )
+  (gr_line (start 178.1 94.762) (end 178.1 64.262) (layer "User.9") (width 0.15) (tstamp 04623b2c-141f-45d5-b606-ca93697b2487))
+  (gr_line (start 183.11 56.98) (end 183.11 99.58) (layer "User.9") (width 0.15) (tstamp 0f16f15c-d889-430d-bdc7-8ae1f82b9520))
+  (gr_line (start 183.11 56.98) (end 199.71 56.98) (layer "User.9") (width 0.15) (tstamp 2ce839a7-ae56-4836-a547-aefa450214ac))
+  (gr_line (start 214.69 131.83) (end 244.69 131.83) (layer "User.9") (width 0.15) (tstamp 3c398f38-0d9a-4978-b0a3-bd2faaea9705))
+  (gr_line (start 214.69 96.83) (end 244.69 96.83) (layer "User.9") (width 0.15) (tstamp 5dfb8f93-e4f6-47ec-b627-4e5b0e548ab4))
+  (gr_line (start 112.1 94.762) (end 112.1 64.262) (layer "User.9") (width 0.15) (tstamp 77579cb8-2a2a-4b3b-b46a-2d485cbe99fc))
+  (gr_line (start 111.973 94.762) (end 177.973 94.762) (layer "User.9") (width 0.15) (tstamp 800ae900-e504-44d1-9915-4a39b31fd276))
+  (gr_line (start 183.11 99.58) (end 199.71 99.58) (layer "User.9") (width 0.15) (tstamp 8cbbddaa-560a-4858-a57e-0d4d594fb21f))
+  (gr_line (start 199.71 56.98) (end 199.71 99.58) (layer "User.9") (width 0.15) (tstamp 9b65c9d0-858c-4826-94e3-1e53a6bb86da))
+  (gr_line (start 112.1 64.262) (end 178.1 64.262) (layer "User.9") (width 0.15) (tstamp d7745b46-711a-4d08-adf4-5420ad94e1d9))
+  (gr_line (start 244.69 96.83) (end 244.69 131.83) (layer "User.9") (width 0.15) (tstamp db4eca14-2b11-4a86-a337-7c2c951e01de))
+  (gr_line (start 214.69 96.83) (end 214.69 131.83) (layer "User.9") (width 0.15) (tstamp df1dfced-018d-4945-a3a7-025f4b9800ea))
   (gr_text "Display" (at 250.57 -48.08) (layer "B.SilkS") (tstamp 66038996-a46c-4850-9f62-775499845652)
     (effects (font (size 6 6) (thickness 0.15)))
   )
-  (gr_text "Charging Module" (at 191.2366 85.09 270) (layer "B.SilkS") (tstamp ec9041c6-6700-4963-9711-2f33daa5cfd3)
+  (gr_text "Raspberry Pi Zero" (at 145.0365 79.512) (layer "User.9") (tstamp 13dfcd3b-0f2c-4213-9f4e-8f701fa294b3)
+    (effects (font (size 4 4) (thickness 0.15)))
+  )
+  (gr_text "Charging Module" (at 191.41 78.28 270) (layer "User.9") (tstamp ec9041c6-6700-4963-9711-2f33daa5cfd3)
     (effects (font (size 3.2 3.2) (thickness 0.15)))
   )
-  (gr_text "LIPO Battery" (at 223.2 115 270) (layer "B.SilkS") (tstamp fd313ea1-2c0b-48ad-82be-b04c1bef9db0)
+  (gr_text "LIPO Battery" (at 229.69 114.33 270) (layer "User.9") (tstamp fd313ea1-2c0b-48ad-82be-b04c1bef9db0)
     (effects (font (size 3.6 3.6) (thickness 0.15)))
   )
 
@@ -34681,26 +34681,6 @@
       )
     )
   )
-  (group "" (id 03c52c21-9f81-4a19-9890-eb9cfb396402)
-    (members
-      13dfcd3b-0f2c-4213-9f4e-8f701fa294b3
-      35ecc92f-4c27-4227-9bc2-c19cd08f97c5
-    )
-  )
-  (group "" (id 1ad48ebc-dabc-43dd-bb2f-f9d956dc7ae9)
-    (members
-      bcbfdb39-441a-41f7-a7ce-19b68bf5d022
-      fd313ea1-2c0b-48ad-82be-b04c1bef9db0
-    )
-  )
-  (group "" (id 1b350c19-993f-4432-86a1-4122e950bd0b)
-    (members
-      0f16f15c-d889-430d-bdc7-8ae1f82b9520
-      2ce839a7-ae56-4836-a547-aefa450214ac
-      8cbbddaa-560a-4858-a57e-0d4d594fb21f
-      9b65c9d0-858c-4826-94e3-1e53a6bb86da
-    )
-  )
   (group "" (id 1b475f7d-c1e4-4d19-a1e3-6361d2931e5d)
     (members
       1584c8fa-3039-4079-bc47-1b5b80c5367b
@@ -34709,12 +34689,13 @@
       ffb50673-07e1-4205-90a4-093bb79a93ea
     )
   )
-  (group "" (id 35ecc92f-4c27-4227-9bc2-c19cd08f97c5)
+  (group "" (id 2f294de1-352a-42fc-943f-6793c56e77f0)
     (members
-      04623b2c-141f-45d5-b606-ca93697b2487
-      77579cb8-2a2a-4b3b-b46a-2d485cbe99fc
-      800ae900-e504-44d1-9915-4a39b31fd276
-      d7745b46-711a-4d08-adf4-5420ad94e1d9
+      3c398f38-0d9a-4978-b0a3-bd2faaea9705
+      5dfb8f93-e4f6-47ec-b627-4e5b0e548ab4
+      db4eca14-2b11-4a86-a337-7c2c951e01de
+      df1dfced-018d-4945-a3a7-025f4b9800ea
+      fd313ea1-2c0b-48ad-82be-b04c1bef9db0
     )
   )
   (group "" (id 7f6fba64-d703-43eb-b7f6-258edb7c6c13)
@@ -34741,23 +34722,27 @@
       fcd0e196-8d7e-4c4c-a99c-c0d8a5f57856
     )
   )
-  (group "" (id bcbfdb39-441a-41f7-a7ce-19b68bf5d022)
+  (group "" (id afb9afdf-4e1b-4a0d-b873-de860ec0757b)
     (members
-      3c398f38-0d9a-4978-b0a3-bd2faaea9705
-      5dfb8f93-e4f6-47ec-b627-4e5b0e548ab4
-      db4eca14-2b11-4a86-a337-7c2c951e01de
-      df1dfced-018d-4945-a3a7-025f4b9800ea
+      0f16f15c-d889-430d-bdc7-8ae1f82b9520
+      2ce839a7-ae56-4836-a547-aefa450214ac
+      8cbbddaa-560a-4858-a57e-0d4d594fb21f
+      9b65c9d0-858c-4826-94e3-1e53a6bb86da
+      ec9041c6-6700-4963-9711-2f33daa5cfd3
+    )
+  )
+  (group "" (id d089ab1c-04dd-4db4-9e6c-f6b4641af526)
+    (members
+      04623b2c-141f-45d5-b606-ca93697b2487
+      13dfcd3b-0f2c-4213-9f4e-8f701fa294b3
+      77579cb8-2a2a-4b3b-b46a-2d485cbe99fc
+      800ae900-e504-44d1-9915-4a39b31fd276
+      d7745b46-711a-4d08-adf4-5420ad94e1d9
     )
   )
   (group "" (id e0c15636-d057-4570-9ad9-688d870adc71)
     (members
       1b475f7d-c1e4-4d19-a1e3-6361d2931e5d
-    )
-  )
-  (group "" (id e721cb39-0cb3-4c17-a648-5ba6edd83876)
-    (members
-      1b350c19-993f-4432-86a1-4122e950bd0b
-      ec9041c6-6700-4963-9711-2f33daa5cfd3
     )
   )
 )
