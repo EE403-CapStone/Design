@@ -365,7 +365,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "KeyPad.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
