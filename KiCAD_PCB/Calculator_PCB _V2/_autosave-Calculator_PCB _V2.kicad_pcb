@@ -4907,7 +4907,6 @@
     )
   )
 
-  (gr_rect (start 209.45 106.99) (end 215.9 114.19) (layer "B.SilkS") (width 0.12) (fill none) (tstamp af19135f-239d-4c31-aa76-d7ab22f60dfc))
   (gr_poly
     (pts
       (xy 88.802241 86.973703)
