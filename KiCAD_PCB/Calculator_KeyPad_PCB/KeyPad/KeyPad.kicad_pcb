@@ -155,6 +155,11 @@
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp 6f62e85b-842f-4d39-be67-7bb19f06385e))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp 74264d2b-1a20-435a-ab0d-6b4b4349ead8))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -204,6 +209,11 @@
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp 5deeb5ef-8306-4bd5-bc64-23169cb9fd8e))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp 831b7f99-34c6-45be-86ca-bec9896654a0))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -213,7 +223,7 @@
     (property "Sheetname" "")
     (path "/4497622e-6a35-4d56-b145-e61873b6a125")
     (attr through_hole)
-    (fp_text reference "SW8" (at 0 -7.62 90 unlocked) (layer "F.SilkS")
+    (fp_text reference "SW8" (at 0 -7.62 90 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8adbc77d-bd5b-4526-a47d-64a24f6f32f7)
     )
@@ -253,6 +263,11 @@
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp 4f8bd45b-0aab-445b-9521-000a0f8deeb3))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp 644aca15-3280-40ef-a3c4-6bf51beaaa43))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -302,6 +317,11 @@
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp cf310b64-3b9a-4efa-8a5b-9f112a80c1b9))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp e9c4a347-ed84-4a81-a118-8a44f027ad16))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -351,6 +371,11 @@
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp 4a0d8704-c75a-48b0-9497-8d71927ad83e))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp 9099348d-e568-44cb-bddb-72450f66fd43))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -400,6 +425,11 @@
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp 414b24e5-3079-4479-a772-aaffdf2dee9d))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp fe465691-4295-4ac2-9920-025f31b6c629))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -449,6 +479,11 @@
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp 1090d9ae-1f9b-41b8-ae5f-6440f85dd625))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp 625be2e1-2651-4bbf-83a1-3c7145cf2d98))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -498,6 +533,11 @@
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp 63b25b2f-8b31-49ee-8785-e45aa444921a))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp 7e482c11-32ae-40b6-874d-96eff4f1238c))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -547,6 +587,11 @@
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp 3713dacd-41b4-4059-8104-4eebbfd2eb7e))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp be90c620-76da-42a0-b627-8b9312322f79))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -596,6 +641,11 @@
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp 7d91d8e4-d769-4559-b010-d97db58317e9))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp 80dd2549-d6de-45f6-9d8c-cccc118126bd))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -645,6 +695,11 @@
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp 2f3a1a1f-e6dd-4c08-9fc2-f09aa868dd42))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp e414b055-fe9d-4a98-b002-7398de48120c))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -694,6 +749,11 @@
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp 3b2e3523-e54c-462e-8fe2-5724d17d5140))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp 8f5f2ef0-245e-46ff-85a3-0c3d633241f1))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -743,6 +803,11 @@
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp 43b5635b-3d9b-4470-b273-013011df4d9d))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp f9c60c7d-d197-4462-b317-fbc7c82dcfc9))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -792,6 +857,11 @@
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp 0f8d39bb-74b0-4114-a1af-ab92a2782646))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp 9186058d-44f3-4536-936e-53f8ef0666be))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -841,6 +911,11 @@
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp 15d0074a-035e-4d11-a151-5d27aaf9f8ce))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp a71723d9-232f-4c6f-9a80-d604ae0765df))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -890,6 +965,11 @@
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp abd6844f-8c7c-4750-9e4f-aec41bdbff70))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp ccdd9a47-97d1-410c-935b-0601db4d330b))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -939,6 +1019,11 @@
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp 1a268d8f-e2c9-416a-aa75-ae4a9e9e4cba))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp 27372028-60f5-43e3-9157-76de0d9f4855))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -988,6 +1073,11 @@
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp af20fbeb-ffd6-418c-ab9a-46cee2316cad))
     (pad "2" thru_hole circle (at 2.54 -3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 31 "/Col14") (pinfunction "B") (pintype "passive") (tstamp ffdbda39-090c-48ae-b96b-5a1c43558272))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -1037,6 +1127,11 @@
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp 43e79bfb-fb5e-409e-a4b8-fd27551a60aa))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp d72fca2e-3873-4f55-a85f-3b520699e6d6))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -1086,6 +1181,11 @@
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp 4a692bab-51ae-47ed-82f5-1a4837ed2ae4))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 29 "/Col13") (pinfunction "B") (pintype "passive") (tstamp 8d76ae43-5b57-4d7b-84c0-cf87bde88d73))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -1135,6 +1235,11 @@
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp 0eaac15d-a266-423b-a17a-e156a47b3796))
     (pad "2" thru_hole circle (at 2.54 3.81 90) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 30 "/Col15") (pinfunction "B") (pintype "passive") (tstamp 5780d014-9215-4441-9eec-75f7b505e4c3))
+    (model "C:/Users/natha/Documents/GitHub/Design/Fusion360_MODEL/Import_Models/Switch_C&K Components_KSA0M332LFT/eec.models/C&K_Components_-_KSA0M332LFT.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
@@ -1146,7 +1251,7 @@
     (property "Sheetname" "")
     (path "/96527309-e171-4a35-927f-efc708b59b90")
     (attr smd)
-    (fp_text reference "D14" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D14" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 2c6c4aea-207c-4e9b-92a2-80be0c00fa0f)
     )
@@ -1196,7 +1301,7 @@
     (property "Sheetname" "")
     (path "/f030d1bf-65ca-43a4-940b-1ffb386c41e3")
     (attr smd)
-    (fp_text reference "D5" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D5" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 36de708c-b6a3-4c21-b9c9-03e9287d817e)
     )
@@ -1246,7 +1351,7 @@
     (property "Sheetname" "")
     (path "/ed2acee5-b6b0-4723-bb74-ad84b2a662e5")
     (attr smd)
-    (fp_text reference "D9" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D9" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 59ecd09b-534c-4720-8243-25043455af13)
     )
@@ -1296,7 +1401,7 @@
     (property "Sheetname" "")
     (path "/fb66491d-bc49-47b5-a124-d31f60ba1b6d")
     (attr smd)
-    (fp_text reference "D3" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D3" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 2f9e999f-4cc8-46d3-bf29-4d10da1f62d3)
     )
@@ -1346,7 +1451,7 @@
     (property "Sheetname" "")
     (path "/fa7a6ff2-91e8-47a3-8788-97a1388c06f6")
     (attr smd)
-    (fp_text reference "D10" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D10" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b6881143-b4c3-4d57-bff1-433e3cbe2bdc)
     )
@@ -1396,7 +1501,7 @@
     (property "Sheetname" "")
     (path "/2d0fed17-815d-432f-a7eb-ae8520ef2c33")
     (attr smd)
-    (fp_text reference "D12" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D12" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 0f5ec45d-9aa8-461d-bcdc-63856d797f4e)
     )
@@ -1446,7 +1551,7 @@
     (property "Sheetname" "")
     (path "/7288ce3d-ad6e-43f5-96ca-99065d7798d0")
     (attr smd)
-    (fp_text reference "D17" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D17" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 2c54e410-fd77-47b3-b3df-bdd0626408a1)
     )
@@ -1496,7 +1601,7 @@
     (property "Sheetname" "")
     (path "/07bf834e-8f9e-43f6-af1b-f9cbc5cd21ec")
     (attr smd)
-    (fp_text reference "D19" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D19" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c13cfad8-bd2c-4de3-962a-ddfaf5066fdb)
     )
@@ -1546,7 +1651,7 @@
     (property "Sheetname" "")
     (path "/8aff7831-39c5-43f8-b21c-3814575054d2")
     (attr smd)
-    (fp_text reference "D13" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D13" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp bd33edde-c45e-4275-b917-c28b61eb256c)
     )
@@ -1596,7 +1701,7 @@
     (property "Sheetname" "")
     (path "/f9c1323a-d030-4333-9c4c-8d16b6d6c5b4")
     (attr smd)
-    (fp_text reference "D21" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D21" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 12d98d59-54bc-462b-b440-452f4ac6e679)
     )
@@ -1646,7 +1751,7 @@
     (property "Sheetname" "")
     (path "/3b301aa2-a53b-4602-9717-2cce8a71c94f")
     (attr smd)
-    (fp_text reference "D6" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D6" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 27418f88-9613-4e08-be96-26a6fd06f06c)
     )
@@ -1696,7 +1801,7 @@
     (property "Sheetname" "")
     (path "/050ccb9c-c92e-4885-96ad-3c8ee62baa70")
     (attr smd)
-    (fp_text reference "D18" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D18" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp be4956ab-3236-4e09-8daa-a3173f7b9352)
     )
@@ -1746,7 +1851,7 @@
     (property "Sheetname" "")
     (path "/9d3292e9-89ed-435a-b615-fc52a41b2a3d")
     (attr smd)
-    (fp_text reference "D1" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D1" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 8f7f71ed-6071-4e2e-ae4b-6bdc40344540)
     )
@@ -1796,7 +1901,7 @@
     (property "Sheetname" "")
     (path "/98a311ac-38c5-418c-9c79-a5650558a468")
     (attr smd)
-    (fp_text reference "D11" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D11" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 8d993a4f-f41a-4f56-9d9e-3981a5d1284c)
     )
@@ -1846,7 +1951,7 @@
     (property "Sheetname" "")
     (path "/9d7add1e-d22e-4c3c-ab8e-6362e975e5d0")
     (attr smd)
-    (fp_text reference "D4" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D4" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 80e41de7-62ed-4b8a-976d-60e76c4cb218)
     )
@@ -1896,7 +2001,7 @@
     (property "Sheetname" "")
     (path "/4c27ac34-c86f-4ff9-b011-2316b94bc825")
     (attr smd)
-    (fp_text reference "D7" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D7" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 1bddbec8-705a-4c8e-97d9-d57637d4075e)
     )
@@ -1946,7 +2051,7 @@
     (property "Sheetname" "")
     (path "/91e34627-a183-42e4-bafa-955f631c2bab")
     (attr smd)
-    (fp_text reference "D16" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D16" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e7a63df6-d719-475d-aa66-5111d04f15f8)
     )
@@ -1996,7 +2101,7 @@
     (property "Sheetname" "")
     (path "/d039718a-5f93-4d2d-b957-a40b11652989")
     (attr smd)
-    (fp_text reference "D8" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D8" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c7825166-acee-4c2a-9648-654199e4d1c2)
     )
@@ -2046,7 +2151,7 @@
     (property "Sheetname" "")
     (path "/7ac31df9-09bc-4110-9b24-746d98cdb45d")
     (attr smd)
-    (fp_text reference "D20" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D20" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 721d875b-cd98-45b3-8afc-03a0661a1ab0)
     )
@@ -2096,7 +2201,7 @@
     (property "Sheetname" "")
     (path "/38cad123-e6f8-46ac-bb65-7bf207c8a5a7")
     (attr smd)
-    (fp_text reference "D2" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D2" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 4a690a81-8bbf-4cbd-a8ea-d7b9adaa5f98)
     )
@@ -2194,6 +2299,11 @@
       (net 32 "Net-(J1-PadS1)") (pinfunction "SHIELD") (pintype "passive") (tstamp 7a1f2b7b-532c-4d3c-bffd-c0111249b6d4))
     (pad "S2" smd rect locked (at 3.04 -2.65 90) (size 0.3 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 32 "Net-(J1-PadS1)") (pinfunction "SHIELD") (pintype "passive") (tstamp f3d4542d-73ba-4a5c-aa1c-fa1cae6bddb0))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/130094464-659-503480-1000/503480-1000.stp"
+      (offset (xyz 0 -3.3 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
@@ -2205,7 +2315,7 @@
     (property "Sheetname" "")
     (path "/ae121872-4c9f-495f-b631-8204082b9825")
     (attr smd)
-    (fp_text reference "D15" (at 0 2) (layer "B.SilkS")
+    (fp_text reference "D15" (at 0 -1.7) (layer "B.SilkS")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3740822b-7d44-4463-8238-efd96d37da1f)
     )
@@ -2246,7 +2356,6 @@
     )
   )
 
-  (gr_rect (start 133.83 99.93) (end 140.28 107.13) (layer "B.SilkS") (width 0.12) (fill none) (tstamp d8a956e0-5251-497f-be1e-d0c4be69a8ae))
   (gr_line (start 136.7 125.98) (end 134.2 125.98) (layer "Edge.Cuts") (width 0.2) (tstamp 06ac04fc-6887-4db7-90e3-4e0f4155d96d))
   (gr_line (start 136.7 125.98) (end 172.7 125.98) (layer "Edge.Cuts") (width 0.2) (tstamp 1774939c-ca7c-4b0d-935e-ce5b46b90f5a))
   (gr_line (start 132.2 123.98) (end 132.2 67.98) (layer "Edge.Cuts") (width 0.2) (tstamp 1794fbe3-aa7f-4e50-a88c-7831d72cad6f))
@@ -2294,6 +2403,9 @@
   (segment (start 141.3422 77.3108) (end 141.139 77.1076) (width 0.15) (layer "B.Cu") (net 3) (tstamp b2b9707f-0165-4375-9fd9-5aef496df7ef))
   (segment (start 156.8236 77.3208) (end 153.2422 77.3208) (width 0.15) (layer "B.Cu") (net 3) (tstamp f54bbbd8-2034-41ce-a581-2b5d6a90bd37))
   (segment (start 144.9236 77.3108) (end 141.3422 77.3108) (width 0.15) (layer "B.Cu") (net 3) (tstamp f8c63fb7-4b6f-40ff-a356-5aa43aa0d1c9))
+  (segment (start 144.709 74.5282) (end 144.44 74.7972) (width 0.15) (layer "B.Cu") (net 4) (tstamp 60fe9a9d-84f2-4b52-ac81-bfd95abb60be))
+  (segment (start 144.44 74.7972) (end 144.44 75.99) (width 0.15) (layer "B.Cu") (net 4) (tstamp 7a101771-d790-4952-bf8f-c35fb17bac1f))
+  (segment (start 146.6824 74.5282) (end 144.709 74.5282) (width 0.15) (layer "B.Cu") (net 4) (tstamp ab1ad037-0df0-4ecf-b4b5-bbe93bd59379))
   (segment (start 141.15 85.1166) (end 141.15 84) (width 0.15) (layer "B.Cu") (net 5) (tstamp 08fef9ba-550b-42df-8d49-760c2385b52d))
   (segment (start 137.149519 102.760481) (end 137.149519 84.380481) (width 0.15) (layer "B.Cu") (net 5) (tstamp 110a07c8-a465-435b-b989-6ca432394d50))
   (segment (start 153.05 85.1266) (end 153.05 84.01) (width 0.15) (layer "B.Cu") (net 5) (tstamp 1b1c6bc3-0b1d-4fcf-b5d4-b3eb800a7fb5))
@@ -2380,6 +2492,9 @@
   (segment (start 135.92 105.77) (end 136.775704 105.77) (width 0.15) (layer "B.Cu") (net 13) (tstamp a3c7920a-e88f-4b4c-b52f-49d6dfeba68f))
   (segment (start 146.2544 124) (end 144.9336 125.3208) (width 0.15) (layer "B.Cu") (net 13) (tstamp bb3acaca-ab4e-4f91-9f78-9156577c72a5))
   (segment (start 153.2522 125.3308) (end 153.049 125.1276) (width 0.15) (layer "B.Cu") (net 13) (tstamp e3044e6c-6422-4252-8fba-eb6418e4a581))
+  (segment (start 156.34 74.7972) (end 156.34 75.99) (width 0.15) (layer "B.Cu") (net 15) (tstamp 47ba2aba-edc0-4639-a2c0-17a404be928f))
+  (segment (start 156.609 74.5282) (end 156.34 74.7972) (width 0.15) (layer "B.Cu") (net 15) (tstamp aaf5d2ae-e163-4c50-b027-1fe44370bfe5))
+  (segment (start 158.5824 74.5282) (end 156.609 74.5282) (width 0.15) (layer "B.Cu") (net 15) (tstamp ac5cc8e4-640b-45ac-8d05-e56c57547aac))
   (segment (start 156.35 82.8072) (end 156.35 84) (width 0.15) (layer "B.Cu") (net 16) (tstamp 0993bb66-894d-4b7f-97db-4f0b153754c0))
   (segment (start 158.5924 82.5382) (end 156.619 82.5382) (width 0.15) (layer "B.Cu") (net 16) (tstamp 54dd1344-16a8-488c-9a14-dbc90d349796))
   (segment (start 156.619 82.5382) (end 156.35 82.8072) (width 0.15) (layer "B.Cu") (net 16) (tstamp f6a60f1e-c060-431e-b014-5b86e657a3b9))
@@ -2389,6 +2504,9 @@
   (segment (start 156.619 98.5382) (end 156.35 98.8072) (width 0.15) (layer "B.Cu") (net 18) (tstamp a6e0310d-133a-4662-a89e-282e3b8ae558))
   (segment (start 156.35 98.8072) (end 156.35 100) (width 0.15) (layer "B.Cu") (net 18) (tstamp cffad45a-b028-458f-b50e-b12ee88abff0))
   (segment (start 158.5924 98.5382) (end 156.619 98.5382) (width 0.15) (layer "B.Cu") (net 18) (tstamp e32f3b75-caa2-43e6-ae73-a4497241e521))
+  (segment (start 168.509 74.5282) (end 168.24 74.7972) (width 0.15) (layer "B.Cu") (net 22) (tstamp 8004b1b9-beb4-40da-a169-c1d679fbe368))
+  (segment (start 168.24 74.7972) (end 168.24 75.99) (width 0.15) (layer "B.Cu") (net 22) (tstamp c773aa04-7323-4c91-8a8f-28d2a03cdd6c))
+  (segment (start 170.4824 74.5282) (end 168.509 74.5282) (width 0.15) (layer "B.Cu") (net 22) (tstamp db15936d-63db-4361-a6e7-d4bf138c7e61))
   (segment (start 170.4924 90.5382) (end 168.519 90.5382) (width 0.15) (layer "B.Cu") (net 23) (tstamp 9b9407bd-7e4e-475d-bc84-0f0e2e582b3b))
   (segment (start 168.25 90.8072) (end 168.25 92) (width 0.15) (layer "B.Cu") (net 23) (tstamp c37be434-4468-4adf-8b0f-4690c5468993))
   (segment (start 168.519 90.5382) (end 168.25 90.8072) (width 0.15) (layer "B.Cu") (net 23) (tstamp c93d6101-152b-41ec-88a9-7e99efc56a56))
@@ -2625,12 +2743,6 @@
       eac8265e-6946-41df-b07f-f2a9ae87b539
     )
   )
-  (group "" (id 3ee7a689-2f2e-4360-a004-c97d585b113c)
-    (members
-      175babef-1062-40f1-b84d-974a7c04386b
-      d8a956e0-5251-497f-be1e-d0c4be69a8ae
-    )
-  )
   (group "" (id 4b763d35-3511-4279-bbf7-3f32efe83782)
     (members
       00451434-40d4-49dd-9962-6f341aecd599
@@ -2741,6 +2853,19 @@
       b2b9707f-0165-4375-9fd9-5aef496df7ef
       f54bbbd8-2034-41ce-a581-2b5d6a90bd37
       f8c63fb7-4b6f-40ff-a356-5aa43aa0d1c9
+    )
+  )
+  (group "" (id 7ea6f1d8-deb0-48ba-957f-d6d81d256e5c)
+    (members
+      47ba2aba-edc0-4639-a2c0-17a404be928f
+      60fe9a9d-84f2-4b52-ac81-bfd95abb60be
+      7a101771-d790-4952-bf8f-c35fb17bac1f
+      8004b1b9-beb4-40da-a169-c1d679fbe368
+      aaf5d2ae-e163-4c50-b027-1fe44370bfe5
+      ab1ad037-0df0-4ecf-b4b5-bbe93bd59379
+      ac5cc8e4-640b-45ac-8d05-e56c57547aac
+      c773aa04-7323-4c91-8a8f-28d2a03cdd6c
+      db15936d-63db-4361-a6e7-d4bf138c7e61
     )
   )
   (group "" (id a353963f-1f2f-4edf-8d58-345d688e4ce4)
