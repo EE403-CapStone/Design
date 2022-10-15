@@ -79,7 +79,7 @@
       (plotinvisibletext false)
       (sketchpadsonfab false)
       (subtractmaskfromsilk false)
-      (outputformat 4)
+      (outputformat 1)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
@@ -43060,10 +43060,6 @@
   (gr_line (start 109.65 66.21) (end 109.65 98.21) (layer "Edge.Cuts") (width 0.2) (tstamp c1dbaaae-23f6-44fb-bee9-acc7bb52b326))
   (gr_line (start 79.65 64.21) (end 107.65 64.21) (layer "Edge.Cuts") (width 0.2) (tstamp d6a7f71a-4da6-4997-9a3d-af77c0308253))
   (gr_line (start 209.65 106.21) (end 209.65 108.21) (layer "Edge.Cuts") (width 0.2) (tstamp e2e6cccb-54a1-4e96-9738-4d65179c25dd))
-  (gr_line (start 407.79 63.3) (end 407.79 3.3) (layer "User.9") (width 0.15) (tstamp 1584c8fa-3039-4079-bc47-1b5b80c5367b))
-  (gr_line (start 305.79 63.3) (end 305.79 3.3) (layer "User.9") (width 0.15) (tstamp 51a43830-14f6-4a46-bf85-57c9e1423de5))
-  (gr_line (start 305.79 63.3) (end 407.79 63.3) (layer "User.9") (width 0.15) (tstamp 5ea7a41f-f860-4daa-a540-9fbd6ef6f536))
-  (gr_line (start 305.79 3.3) (end 407.79 3.3) (layer "User.9") (width 0.15) (tstamp ffb50673-07e1-4205-90a4-093bb79a93ea))
   (gr_text "Row0" (at 79.29 77.99) (layer "B.SilkS") (tstamp 05d3a9fe-1425-4ab3-8a69-0d2966152cf3)
     (effects (font (size 0.4 0.4) (thickness 0.1)) (justify mirror))
   )
@@ -43085,6 +43081,9 @@
   (gr_text "+5V\n" (at 87.27 66.62) (layer "B.SilkS") (tstamp 423a2c32-7422-4f6e-83a8-944ded4ab90c)
     (effects (font (size 0.6 0.6) (thickness 0.15)) (justify mirror))
   )
+  (gr_text "Row5" (at 79.29 91.99) (layer "B.SilkS") (tstamp 48eb0b93-a5c1-4cfc-924a-acc48d7a1400)
+    (effects (font (size 0.4 0.4) (thickness 0.1)) (justify mirror))
+  )
   (gr_text "Col10" (at 98.65 101.45 90) (layer "B.SilkS") (tstamp 535c4e99-2296-4bb3-8231-c6314fdcf9d3)
     (effects (font (size 0.4 0.4) (thickness 0.1)) (justify mirror))
   )
@@ -43095,9 +43094,6 @@
     (effects (font (size 0.4 0.4) (thickness 0.1)) (justify mirror))
   )
   (gr_text "Col6" (at 90.65 101.27 90) (layer "B.SilkS") (tstamp 60580d9a-f43b-48a8-ac2d-945ea560aacc)
-    (effects (font (size 0.4 0.4) (thickness 0.1)) (justify mirror))
-  )
-  (gr_text "Row5" (at 79.29 91.99) (layer "B.SilkS") (tstamp 62e87a9c-48b8-49b5-b483-f69efa47292e)
     (effects (font (size 0.4 0.4) (thickness 0.1)) (justify mirror))
   )
   (gr_text "y_out" (at 79.24 81.99) (layer "B.SilkS") (tstamp 6b27399d-223b-41fb-9007-53e3051952f2)
@@ -43168,9 +43164,6 @@
   )
   (gr_text "MATH" (at 96.81 95.33) (layer "F.Mask") (tstamp bbe7a9e1-004f-48fd-8306-45510ab0b2a6)
     (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (gr_text "Display" (at 356.79 33.3) (layer "User.9") (tstamp 66038996-a46c-4850-9f62-775499845652)
-    (effects (font (size 6 6) (thickness 0.15)))
   )
 
   (segment (start 92.65 73.325) (end 93.145 72.83) (width 0.8) (layer "B.Cu") (net 1) (tstamp 3365d16b-cf28-4d73-bdfb-7189c36cf5d1))
@@ -60981,15 +60974,6 @@
         (xy 79.683488 64.4105)
         (xy 107.61599 64.4105)
       )
-    )
-  )
-  (group "" (id 66c97e6e-49ff-48b7-938e-a4ee6251c17f)
-    (members
-      1584c8fa-3039-4079-bc47-1b5b80c5367b
-      51a43830-14f6-4a46-bf85-57c9e1423de5
-      5ea7a41f-f860-4daa-a540-9fbd6ef6f536
-      66038996-a46c-4850-9f62-775499845652
-      ffb50673-07e1-4205-90a4-093bb79a93ea
     )
   )
 )
