@@ -26,8 +26,7 @@ Case
 ## AutoCAD Drawings
 ![Case Outline AutoCAD](Fusion360_MODEL/Images/Case_Outline.png)
 |:--:| 
-| *2D Outline of Case mocked up in AutoCAD to determine layout. 
-Exported as a dxf, and utilized to build enclosure in Fusion360 from this initial sketching* |
+| *2D Outline of Case mocked up in AutoCAD to determine layout. Exported as a dxf, and utilized to build enclosure in Fusion360 from this initial sketching* |
 
 ## Fusion360 Models
 ### Case Bottom
