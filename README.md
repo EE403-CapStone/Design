@@ -134,7 +134,31 @@ NumPad module PCB manufactured by PCBway's PCB fabrication service. The followin
 Joystick/D-PAD Module
 =====================
 
+The joystick/d-pad module is responsible for mouse movement. Mouse movement is handled by a joystick, arrow key movement is handled by switches under a directional pad.
+
+![Joystick/D-Pad Module Schematic](KiCAD_PCB/Images/Joystick_Module_Schematic.png)
+|:--:|
+| *NJoystick/D-Pad Module KiCAD Schematic.* |
+
+![Joystick/D-Pad Module PCB](KiCAD_PCB/Images/Joystick_Module_PCB.png)
+|:--:|
+| *Joystick/D-Pad Module PCB Routing and Component Placement.* |
+
+![Joystick/D-Pad Module 3D PCB](KiCAD_PCB/Images/Joystick_PCB.png)
+|:--:|
+| *3D Render of Joystick/D-Pad Module PCB.* |
+
 Joystick BOM
 ------------
+
+NumPad module PCB manufactured by PCBway's PCB fabrication service. The following table details the components used within the module, along with information on pricing for the actual PCB.
+
+| Component | Cost | Link |
+| --- | --- | --- |
+| KSA1M331LFT SPST-NO | $0.91 | https://www.digikey.com/en/products/detail/c-k/KSA1M331LFT/1003897 |
+| FPC 10Pin Connector | $1.13 | https://www.digikey.com/en/products/detail/molex/5034801000/2356624 |
+|1N4148WTPMSCT-ND Diode| $0.03816 | https://www.digikey.com/en/products/detail/micro-commercial-co/1N4148W-TP/717196 |
+| Mini Analog Thumbstick | $2.50 | https://www.adafruit.com/product/2765?gclid=CjwKCAjw6raYBhB7EiwABge5Kk9TZn8ilWmRzUdasBMNh74FXIZQBJh3K6sDLgbHT71pnA3cYCJrNRoC1E8QAvD_BwE |
+|Joystick/D-Pad Module PCB| $38.18 |  |
 
 [^1]: https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLA.html
