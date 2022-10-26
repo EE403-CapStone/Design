@@ -57,6 +57,9 @@ Mocked up in AutoCAD to determine layout, espcially in regards to PCB orientatio
 
 Case BOM
 ========
+
+All casing produced and manufactured by PCBWay's Stereolithography (SLA) Printing Service[^1].
+
 | Component | Cost |
 | --- | --- |
 | Display Top | $4.98 |
@@ -129,3 +132,5 @@ while True:
     y_offset = filter_joystick_deadzone(yAxis.value)
     mouse.move(x_offset, y_offset, 0)
 ```
+
+[^1]: https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLA.html
