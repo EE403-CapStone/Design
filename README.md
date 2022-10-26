@@ -1,5 +1,6 @@
 # Design
-The following designs are rough ideations of the possible calculator configuration.
+Depicts vaious design aspects associates with this project.
+Includes CAD models, and schematics.
 
 # Current Parts List
 
