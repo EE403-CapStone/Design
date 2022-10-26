@@ -99,6 +99,7 @@ Keyboard module PCB manufactured by PCBway's PCB fabrication service. The follow
 | FPC 10Pin Connector | $1.13 | https://www.digikey.com/en/products/detail/molex/5034801000/2356624 |
 | FPC 10Pin Cable | $3.74 | https://www.digikey.com/en/products/detail/molex/0152660095/3160830 |
 |1N4148WTPMSCT-ND Diode| $0.03816 | https://www.digikey.com/en/products/detail/micro-commercial-co/1N4148W-TP/717196 |
+| PTS810SJK250SMTRLFS | $0.36 | https://www.mouser.com/ProductDetail/611-PTS810SJK250SMTR |
 
 NumPad Module
 =============
