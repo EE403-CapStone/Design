@@ -1,6 +1,13 @@
 # Design
 Depicts vaious design aspects associates with this project.
-Includes CAD models, and schematics.
+
+Includes
+- CAD Model
+- Schematics
+    -  Keyboard Module
+    -  NumPad Module
+    -  Joystick/D-PAD Module
+- BOM 
 
 # Current Parts List
 
