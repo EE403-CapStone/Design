@@ -29,6 +29,12 @@ Case
 |:--:|
 | *Bottom Case for Calculator* |
 
+### Case Top
+![Case Top](Fusion360_MODEL/Images/Top_Case.png)
+|:--:|
+| *Top Case for Calculator* |
+
+
 ## Single Board Computer
 | Name | Cost | Link |
 | --- | --- | --- |
