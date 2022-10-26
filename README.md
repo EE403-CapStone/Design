@@ -21,22 +21,28 @@ Case
 
 ![Rendered Calculator](KeyShot_Renders/Renders/Case/Case_2.46.png)
 |:--:| 
-| *Rendering of Casing for Calculator* |
+| *Rendering of Casing for Calculator.* |
+
+## AutoCAD Drawings
+![Case Outline AutoCAD](Fusion360_MODEL/Images/Case_Outline.png)
+|:--:| 
+| *2D Outline of Case mocked up in AutoCAD to determine layout. 
+Exported as a dxf, and utilized to build enclosure in Fusion360 from this initial sketching* |
 
 ## Fusion360 Models
 ### Case Bottom
 ![Case Bottom](Fusion360_MODEL/Images/Bottom_Case_2.png)
 |:--:|
-| *Bottom Case for Calculator* |
+| *Bottom Case for Calculator.* |
 
 ![Case Bottom with PCB](Fusion360_MODEL/Images/PCB_Housing.png)
 |:--:|
-| *Bottom Case for Calculator with PCB's included* |
+| *Bottom Case for Calculator with PCB's included.* |
 
 ### Case Top
 ![Case Top](Fusion360_MODEL/Images/Top_Case.png)
 |:--:|
-| *Top Case for Calculator* |
+| *Top Case for Calculator.* |
 
 
 ## Single Board Computer
