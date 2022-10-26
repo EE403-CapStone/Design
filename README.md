@@ -20,6 +20,8 @@ Case
 ====
 
 ![Rendered Calculator](KeyShot_Renders/Renders/Case/Case_2.46.png)
+|:--:| 
+| *Enclosure rendered for the calculator.* |
 
 
 ## Single Board Computer
