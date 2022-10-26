@@ -71,6 +71,11 @@ All casing produced and manufactured by PCBWay's Stereolithography (SLA) Printin
 Keyboard Module
 ===============
 
+The keyboard module is responsible for alphabetical input from the user. This is handled by a full qwerty keyboard, in addition to other keys aswell.
+
+![KeybaordModule Schmatic](KiCAD_PCB/Images/Keyboard_Module_Schematic.png)
+|:--:|
+| *Keyboard Module KiCAD Schmeatic.* |
 
 
 
