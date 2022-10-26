@@ -1,7 +1,5 @@
 # Design
 Depicts vaious design aspects associates with this project.
-
-Includes
 - CAD Model
 - Schematics
     -  Keyboard Module
