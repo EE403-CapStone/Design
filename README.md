@@ -19,6 +19,9 @@ Table of contents
 Case
 ====
 
+![This is an image](KeyShot_Renders/Renders/Case/Case_2.46.png)
+
+
 ## Single Board Computer
 | Name | Cost | Link |
 | --- | --- | --- |
