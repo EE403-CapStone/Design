@@ -21,7 +21,60 @@ Case
 
 ![Rendered Calculator](KeyShot_Renders/Renders/Case/Case_2.46.png)
 |:--:| 
-| *Rendering of Casing for Calculator* |
+| *Rendering of Casing for Calculator.* |
+
+## AutoCAD Drawings
+![Case Outline AutoCAD](Fusion360_MODEL/Images/Case_Outline.png)
+|:--:| 
+| *2D Outline of Case in AutoCAD* |
+
+Mocked up in AutoCAD to determine layout, espcially in regards to PCB orientation and configuration. Exported as a dxf, and utilized to build enclosure in Fusion360 from this initial sketching. All dimensions for the Fusion360 model determined from this intial sketch.
+
+![Outline Comparision](Fusion360_MODEL/Images/Outline_Compare.png)
+|:--:| 
+| *Comparision between the initial 2D AutoCAD sketch, and the finalized model in Fusion360.* |
+
+## Fusion360 Models
+### Case Bottom
+![Case Bottom](Fusion360_MODEL/Images/Bottom_Case_2.png)
+|:--:|
+| *Bottom Case for Calculator.* |
+
+![Case Bottom with PCB](Fusion360_MODEL/Images/PCB_Housing.png)
+|:--:|
+| *Bottom Case for Calculator with PCB's included.* |
+
+### Case Top
+![Case Top](Fusion360_MODEL/Images/Top_Case.png)
+|:--:|
+| *Top Case for Calculator.* |
+
+### Case All
+![Case Top](Fusion360_MODEL/Images/Full.png)
+|:--:|
+| *Full Case Design for Calculator.* |
+
+
+Case BOM
+========
+
+All casing produced and manufactured by PCBWay's Stereolithography (SLA) Printing Service[^1]. This SLA service allows for precise and accurate feature resolution. For this project, the material of choice was the standard white material (UTR 8360), providing great dimensinoal accuracy while also being durable. Pricing for each part of the enclosure is shown in the table below.
+
+| Component | Cost |
+| --- | --- |
+| Display Top | $4.98 |
+| Display Bottom | $8.46 |
+| Case Top | $16.68 |
+| Case Bottom | $17.42 |
+
+
+Keyboard Module
+===============
+
+
+
+
+
 
 
 ## Single Board Computer
@@ -86,3 +139,5 @@ while True:
     y_offset = filter_joystick_deadzone(yAxis.value)
     mouse.move(x_offset, y_offset, 0)
 ```
+
+[^1]: https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLA.html
