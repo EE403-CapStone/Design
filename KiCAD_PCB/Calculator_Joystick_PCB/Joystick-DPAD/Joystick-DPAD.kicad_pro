@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "Joystick-DPAD.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Joystick-DPAD.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

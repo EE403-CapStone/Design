@@ -252,6 +252,11 @@
       (net 8 "3.3V") (pinfunction "E") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 63d2de20-f243-448e-8f9b-9238fd5af361))
     (pad "Y-" thru_hole oval (at 9 2 180) (size 3 1.5) (drill 0.9) (layers *.Cu *.Mask)
       (net 9 "GND") (pinfunction "A") (pintype "passive") (solder_mask_margin 0.0508) (tstamp fd96f853-b86f-4839-b405-9056fd204602))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/AdaFruit_Mini_Thumbstick/Adafruit_Mini_2-Axis_Analog_Thumbstick v14.step"
+      (offset (xyz 9 -8.83 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -90))
+    )
   )
 
   (footprint "MountingHole:MountingHole_2.2mm_M2_DIN965" (layer "F.Cu")
@@ -285,19 +290,19 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -2.9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a7e4ce5c-98fb-48d0-9ff3-cdec8a457bcf)
+      (tstamp 5ff19d63-2cb4-438b-93c4-e66d37a05329)
     )
     (fp_text value "MountingHole_2.2mm_M2_DIN965" (at 0 2.9) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2570aee6-6e18-4261-b22f-3d8d6a2e1ea5)
+      (tstamp fa00d3f4-bb71-4b1d-aa40-ae9267e2c41f)
     )
     (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c9e56185-f336-4312-a98e-d42d46197976)
+      (tstamp 616287d9-a51f-498c-8b91-be46a0aa3a7f)
     )
-    (fp_circle (center 0 0) (end 1.9 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp f364e29b-5711-4bf2-8799-5bbae295994d))
-    (fp_circle (center 0 0) (end 2.15 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp efb33de0-b764-4444-a29e-2b79ab867302))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp 23a1071b-2dec-458f-96a6-0e4d178d9bd5))
+    (fp_circle (center 0 0) (end 1.9 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp a599509f-fbb9-4db4-9adf-9e96bab1138d))
+    (fp_circle (center 0 0) (end 2.15 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 8bdea5f6-7a53-427a-92b8-fd15994c2e8c))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp cbebc05a-c4dd-4baf-8c08-196e84e08b27))
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -416,19 +421,19 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -2.9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a7e4ce5c-98fb-48d0-9ff3-cdec8a457bcf)
+      (tstamp 1cb22080-0f59-4c18-a6e6-8685ef44ec53)
     )
     (fp_text value "MountingHole_2.2mm_M2_DIN965" (at 0 2.9) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2570aee6-6e18-4261-b22f-3d8d6a2e1ea5)
+      (tstamp 701e1517-e8cf-46f4-b538-98e721c97380)
     )
     (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c9e56185-f336-4312-a98e-d42d46197976)
+      (tstamp 235067e2-1686-40fe-a9a0-61704311b2b1)
     )
-    (fp_circle (center 0 0) (end 1.9 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp f364e29b-5711-4bf2-8799-5bbae295994d))
-    (fp_circle (center 0 0) (end 2.15 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp efb33de0-b764-4444-a29e-2b79ab867302))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp 23a1071b-2dec-458f-96a6-0e4d178d9bd5))
+    (fp_circle (center 0 0) (end 1.9 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 31f91ec8-56e4-4e08-9ccd-012652772211))
+    (fp_circle (center 0 0) (end 2.15 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp be41ac9e-b8ba-4089-983b-b84269707f1c))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp f7447e92-4293-41c4-be3f-69b30aad1f17))
   )
 
   (footprint "MountingHole:MountingHole_2.2mm_M2_DIN965" (layer "F.Cu")
@@ -439,19 +444,19 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -2.9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp a7e4ce5c-98fb-48d0-9ff3-cdec8a457bcf)
+      (tstamp 98861672-254d-432b-8e5a-10d885a5ffdc)
     )
     (fp_text value "MountingHole_2.2mm_M2_DIN965" (at 0 2.9) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2570aee6-6e18-4261-b22f-3d8d6a2e1ea5)
+      (tstamp 5e7c3a32-8dda-4e6a-9838-c94d1f165575)
     )
     (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c9e56185-f336-4312-a98e-d42d46197976)
+      (tstamp 5f31b97b-d794-46d6-bbd9-7a5638bcf704)
     )
-    (fp_circle (center 0 0) (end 1.9 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp f364e29b-5711-4bf2-8799-5bbae295994d))
-    (fp_circle (center 0 0) (end 2.15 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp efb33de0-b764-4444-a29e-2b79ab867302))
-    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp 23a1071b-2dec-458f-96a6-0e4d178d9bd5))
+    (fp_circle (center 0 0) (end 1.9 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 3c9169cc-3a77-4ae0-8afc-cbfc472a28c5))
+    (fp_circle (center 0 0) (end 2.15 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 3e57b728-64e6-4470-8f27-a43c0dd85050))
+    (pad "" np_thru_hole circle (at 0 0) (size 2.2 2.2) (drill 2.2) (layers *.Cu *.Mask) (tstamp 637f12be-fa48-4ce4-96b2-04c21a8795c8))
   )
 
   (footprint "KSA_Switch:KSA1M331LFT" (layer "F.Cu")
@@ -619,6 +624,11 @@
       (net 9 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 8fc398e3-a768-40e4-8f97-c80899a4644a))
     (pad "S2" smd rect locked (at 3.04 -2.65 270) (size 0.3 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 9 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 2ae8e7e5-ef7f-4644-a8fe-582306462460))
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/130094464-659-503480-1000/503480-1000.stp"
+      (offset (xyz 0 -3.3 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" (layer "B.Cu")
@@ -701,7 +711,7 @@
       (net 14 "/Row5") (pinfunction "K") (pintype "passive") (tstamp f33292b6-e256-451d-9bfa-7d07ba9e670f))
     (pad "2" smd rect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "Net-(D3-Pad2)") (pinfunction "A") (pintype "passive") (tstamp f0eaad98-d205-41c4-a0e6-ff5881df4ae0))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -751,7 +761,7 @@
       (net 12 "/Row3") (pinfunction "K") (pintype "passive") (tstamp 6ccd433d-6c2a-4816-b21d-4a0768a4b1bf))
     (pad "2" smd rect (at 1.65 0 90) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 2 "Net-(D2-Pad2)") (pinfunction "A") (pintype "passive") (tstamp ac188c43-fe12-43bf-8778-a1bfebbc5306))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -801,7 +811,7 @@
       (net 13 "/Row4") (pinfunction "K") (pintype "passive") (tstamp 5677ce6f-2f2b-441c-afdd-2baebbd3014e))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 4 "Net-(D4-Pad2)") (pinfunction "A") (pintype "passive") (tstamp dfec3e8d-8c25-49f6-a37d-8d2d914dbfd2))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -851,7 +861,7 @@
       (net 13 "/Row4") (pinfunction "K") (pintype "passive") (tstamp 44a15e1c-f254-4648-a79e-78dd546b3ad3))
     (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "Net-(D1-Pad2)") (pinfunction "A") (pintype "passive") (tstamp a3211a09-e8bb-45b4-9fce-27397cf3f049))
-    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
+    (model "C:/Users/natha/Documents/GitHub/Design/KiCAD_PCB/Calculator_PCB_Components/3D_Models/sod123-1.snapshot.1/sod123 v4.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

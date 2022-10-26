@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.4)"
     },
-    "CreationDate": "2022-10-14T21:25:15-05:00"
+    "CreationDate": "2022-10-16T11:05:07-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,48 +34,8 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "KeyPad-F_Cu.gbr",
-      "FileFunction": "Copper,L1,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "KeyPad-B_Cu.gbr",
-      "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "KeyPad-F_Paste.gbr",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "KeyPad-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "KeyPad-F_Silkscreen.gbr",
-      "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "KeyPad-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "KeyPad-F_Mask.gbr",
-      "FileFunction": "SolderMask,Top",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "KeyPad-B_Mask.gbr",
-      "FileFunction": "SolderMask,Bot",
-      "FilePolarity": "Negative"
-    },
-    {
-      "Path": "KeyPad-Edge_Cuts.gbr",
-      "FileFunction": "Profile",
+      "Path": "KeyPad-User_Eco1.gbr",
+      "FileFunction": "Other,User",
       "FilePolarity": "Positive"
     }
   ],

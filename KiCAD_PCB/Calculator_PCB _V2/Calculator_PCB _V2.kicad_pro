@@ -195,7 +195,7 @@
       "idf": "",
       "netlist": "Calculator_PCB_V2.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "CAD_Model/Calculator_PCB _V2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
