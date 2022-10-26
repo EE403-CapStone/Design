@@ -1,13 +1,23 @@
 # Design
 Depicts vaious design aspects associates with this project.
-- CAD Model
-- Schematics
-    -  Keyboard Module
-    -  NumPad Module
-    -  Joystick/D-PAD Module
-- Parts List[^3]
 
-[^3]: Current Parts List
+Table of contents
+=================
+
+<!--ts-->
+   * [Case CAD Model](#Case)
+      * [Case BOM](#CaseBOM)
+   * [Keyboard Module](#Keyboard)
+      * [Keyboard BOM](#KeyboardBOM)
+   * [NumPad Module](#NumPad)
+      * [NumPad BOM](#NumPadBOM)
+   * [Joystick/D-PAD Module](#Joystick)
+      * [Joystick BOM](#JoystickBOM)
+<!--te-->
+
+
+Case CAD Model
+============
 
 ## Single Board Computer
 | Name | Cost | Link |
