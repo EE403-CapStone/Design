@@ -58,7 +58,7 @@ Mocked up in AutoCAD to determine layout, espcially in regards to PCB orientatio
 Case BOM
 ========
 
-All casing produced and manufactured by PCBWay's Stereolithography (SLA) Printing Service[^1]. This SLA service allows for precise and accurate feature resolution. For this project, the material of choice was the standard white material (UTR 8360), providing great dimensinoal accuracy.
+All casing produced and manufactured by PCBWay's Stereolithography (SLA) Printing Service[^1]. This SLA service allows for precise and accurate feature resolution. For this project, the material of choice was the standard white material (UTR 8360), providing great dimensinoal accuracy while also being durable.
 
 | Component | Cost |
 | --- | --- |
