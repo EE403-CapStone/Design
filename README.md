@@ -21,7 +21,7 @@ Case
 
 ![Rendered Calculator](KeyShot_Renders/Renders/Case/Case_2.46.png)
 |:--:| 
-| *Enclosure rendered for the calculator.* |
+| *Rendering of Casing for Calculator* |
 
 
 ## Single Board Computer
