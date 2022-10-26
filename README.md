@@ -7,7 +7,7 @@ Depicts vaious design aspects associates with this project.
     -  Joystick/D-PAD Module
 - Parts List[^3]
 
-# Current Parts List[^3]
+# [^3] Current Parts List
 
 ## Single Board Computer
 | Name | Cost | Link |
