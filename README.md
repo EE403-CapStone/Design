@@ -5,7 +5,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Case CAD Model](#Case)
+   * [Case](#Case)
       * [Case BOM](#CaseBOM)
    * [Keyboard Module](#Keyboard)
       * [Keyboard BOM](#KeyboardBOM)
@@ -16,8 +16,8 @@ Table of contents
 <!--te-->
 
 
-Case CAD Model
-============
+Case
+====
 
 ## Single Board Computer
 | Name | Cost | Link |
