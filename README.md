@@ -11,7 +11,7 @@ Table of contents
       * [Keyboard BOM](#Keyboard-BOM)
    * [NumPad Module](#NumPad-Module)
       * [NumPad BOM](#NumPad-BOM)
-   * [Joystick/D-PAD Module](Joystick/D-PAD-Module)
+   * [Joystick/D-PAD Module](#Joystick/D-PAD-Module)
       * [Joystick/D-PAD BOM](#Joystick/D-PAD-BOM)
 <!--te-->
 
