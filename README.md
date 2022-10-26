@@ -81,6 +81,10 @@ The keyboard module is responsible for alphabetical input from the user. This is
 |:--:|
 | *Keyboard Module PCB Routing and Component Placement.* |
 
+![Keyboard Module 3D PCB](KiCAD_PCB/Images/Keyboard_PCB.png)
+|:--:|
+| *3D Render of Keyboard Module PCB.* |
+
 
 
 
