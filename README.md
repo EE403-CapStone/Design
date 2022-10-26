@@ -28,7 +28,7 @@ Case
 |:--:| 
 | *2D Outline of Case in AutoCAD* |
 
-Mocked up in AutoCAD to determine layout. Exported as a dxf, and utilized to build enclosure in Fusion360 from this initial sketching.
+Mocked up in AutoCAD to determine layout, espcially in regards to PCB orientation and configuration. Exported as a dxf, and utilized to build enclosure in Fusion360 from this initial sketching. All dimensions for the Fusion360 model determined from this intial sketch.
 
 ## Fusion360 Models
 ### Case Bottom
