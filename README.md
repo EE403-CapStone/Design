@@ -5,7 +5,7 @@ Depicts vaious design aspects associates with this project.
     -  Keyboard Module
     -  NumPad Module
     -  Joystick/D-PAD Module
-- BOM 
+- Parts List
 
 # Current Parts List
 
