@@ -24,6 +24,9 @@ Case
 |:--:| 
 | *Rendering of Casing for Calculator* |
 
+## Fusion360 Models
+#### Case Bottom
+
 
 ## Single Board Computer
 | Name | Cost | Link |
