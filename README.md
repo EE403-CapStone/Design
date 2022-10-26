@@ -55,6 +55,18 @@ Mocked up in AutoCAD to determine layout, espcially in regards to PCB orientatio
 | *Full Case Design for Calculator.* |
 
 
+Case BOM
+========
+| Component | Cost |
+| --- | --- |
+| Display Top | $4.98 |
+| Display Bottom | $8.46 |
+| Case Top | $16.68 |
+| Case Bottom | $17.42 |
+
+
+
+
 ## Single Board Computer
 | Name | Cost | Link |
 | --- | --- | --- |
