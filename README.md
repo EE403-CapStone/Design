@@ -26,7 +26,9 @@ Case
 
 ## Fusion360 Models
 #### Case Bottom
-
+![Case Bottom](Fusion360_MODEL/Images/Bottom_Case_2.png)
+|:--:|
+| *Bottom Case for Calculator* |
 
 ## Single Board Computer
 | Name | Cost | Link |
