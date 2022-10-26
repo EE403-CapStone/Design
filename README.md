@@ -75,7 +75,7 @@ The keyboard module is responsible for alphabetical input from the user. This is
 
 ![Keybaord Module Schmatic](KiCAD_PCB/Images/Keyboard_Module_Schematic.png)
 |:--:|
-| *Keyboard Module KiCAD Schmeatic.* |
+| *Keyboard Module KiCAD Schematic.* |
 
 ![Keybaord Module PCB](KiCAD_PCB/Images/Keyboard_Module_PCB.png)
 |:--:|
@@ -104,6 +104,19 @@ Keyboard module PCB manufactured by PCBway's PCB fabrication service. The follow
 NumPad Module
 =============
 
+The numpad module is responsible for numerical input, as well as mathmatical operations. This is handled by a 7x3 button matrix.
+
+![NumPad Module Schematic](KiCAD_PCB/Images/NumPad_Module_Schematic.png)
+|:--:|
+| *NumPad Module KiCAD Schematic.* |
+
+![NumPad Module PCB](KiCAD_PCB/Images/NumPad_Module_PCB.png)
+|:--:|
+| *NumPad Module PCB Routing and Component Placement.* |
+
+![NumPad Module 3D PCB](KiCAD_PCB/Images/NumPad_PCB.png)
+|:--:|
+| *3D Render of NumPad Module PCB.* |
 
 NumPad BOM
 ----------
