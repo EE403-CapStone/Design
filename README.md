@@ -5,9 +5,9 @@ Depicts vaious design aspects associates with this project.
     -  Keyboard Module
     -  NumPad Module
     -  Joystick/D-PAD Module
-- Parts List
+- Parts List[^3]
 
-# Current Parts List
+# Current Parts List[^3]
 
 ## Single Board Computer
 | Name | Cost | Link |
