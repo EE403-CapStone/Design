@@ -6,13 +6,13 @@ Table of contents
 
 <!--ts-->
    * [Case](#Case)
-      * [Case BOM](#CaseBOM)
-   * [Keyboard Module](#Keyboard)
-      * [Keyboard BOM](#KeyboardBOM)
-   * [NumPad Module](#NumPad)
-      * [NumPad BOM](#NumPadBOM)
-   * [Joystick/D-PAD Module](#Joystick)
-      * [Joystick BOM](#JoystickBOM)
+      * [Case BOM](#Case-BOM)
+   * [Keyboard Module](#Keyboard-Module)
+      * [Keyboard BOM](#Keyboard-BOM)
+   * [NumPad Module](#NumPad-Module)
+      * [NumPad BOM](#NumPad-BOM)
+   * [Joystick/D-PAD Module](Joystick/D-PAD-Module)
+      * [Joystick/D-PAD BOM](#Joystick/D-PAD-BOM)
 <!--te-->
 
 
