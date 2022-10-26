@@ -11,8 +11,8 @@ Table of contents
       * [Keyboard BOM](#Keyboard-BOM)
    * [NumPad Module](#NumPad-Module)
       * [NumPad BOM](#NumPad-BOM)
-   * [Joystick/D-PAD Module](#Joystick/D-PAD-Module)
-      * [Joystick/D-PAD BOM](#Joystick/D-PAD-BOM)
+   * [Joystick Module](#Joystick-Module)
+      * [Joystick BOM](#Joystick-BOM)
 <!--te-->
 
 
@@ -131,7 +131,7 @@ NumPad module PCB manufactured by PCBway's PCB fabrication service. The followin
 |1N4148WTPMSCT-ND Diode| $0.03816 | https://www.digikey.com/en/products/detail/micro-commercial-co/1N4148W-TP/717196 |
 |NumPad Module PCB| $38.18 |  |
 
-Joystick/D-PAD Module
+Joystick Module
 =====================
 
 The joystick/d-pad module is responsible for mouse movement. Mouse movement is handled by a joystick, arrow key movement is handled by switches under a directional pad.
