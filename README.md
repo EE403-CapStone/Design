@@ -19,7 +19,6 @@ Table of contents
 Case
 ====
 
-## Calculator Render
 ![Rendered Calculator](KeyShot_Renders/Renders/Case/Case_2.46.png)
 |:--:| 
 | *Rendering of Casing for Calculator* |
