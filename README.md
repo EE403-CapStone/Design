@@ -99,6 +99,7 @@ Keyboard module PCB manufactured by PCBway's PCB fabrication service. The follow
 | FPC 10Pin Cable | $3.74 | https://www.digikey.com/en/products/detail/molex/0152660095/3160830 |
 |1N4148WTPMSCT-ND Diode| $0.03816 | https://www.digikey.com/en/products/detail/micro-commercial-co/1N4148W-TP/717196 |
 | PTS810SJK250SMTRLFS | $0.36 | https://www.mouser.com/ProductDetail/611-PTS810SJK250SMTR |
+|Keyboard Module PCB| $51.58 |  |
 
 NumPad Module
 =============
@@ -120,7 +121,7 @@ The numpad module is responsible for numerical input, as well as mathmatical ope
 NumPad BOM
 ----------
 
-Keyboard module PCB manufactured by PCBway's PCB fabrication service. The following table details the components used within the module, along with information on pricing for the actual PCB.
+NumPad module PCB manufactured by PCBway's PCB fabrication service. The following table details the components used within the module, along with information on pricing for the actual PCB.
 
 | Component | Cost | Link |
 | --- | --- | --- |
@@ -128,6 +129,7 @@ Keyboard module PCB manufactured by PCBway's PCB fabrication service. The follow
 | Tactile Cap Oval (BLACK) | $0.39 | https://www.digikey.com/en/products/detail/c-k/BTNK0390/559405 |
 | FPC 10Pin Connector | $1.13 | https://www.digikey.com/en/products/detail/molex/5034801000/2356624 |
 |1N4148WTPMSCT-ND Diode| $0.03816 | https://www.digikey.com/en/products/detail/micro-commercial-co/1N4148W-TP/717196 |
+|NumPad Module PCB| $38.18 |  |
 
 Joystick/D-PAD Module
 =====================
