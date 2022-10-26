@@ -95,7 +95,6 @@ Keyboard module PCB manufactured by PCBway's PCB fabrication service. The follow
 | RP2040 Stamp | $12.00 | https://www.tindie.com/products/arturo182/rp2040-stamp/ |
 | KSA1M331LFT SPST-NO | $0.91 | https://www.digikey.com/en/products/detail/c-k/KSA1M331LFT/1003897 |
 | Tactile Cap Oval (BLACK) | $0.39 | https://www.digikey.com/en/products/detail/c-k/BTNK0390/559405 |
-| D-Pad Button(Black) | $3.40 | https://www.ebay.com/itm/182260383344?hash=item2a6f90be70:g:KzUAAOSwFV9XxCYp |
 | FPC 10Pin Connector | $1.13 | https://www.digikey.com/en/products/detail/molex/5034801000/2356624 |
 | FPC 10Pin Cable | $3.74 | https://www.digikey.com/en/products/detail/molex/0152660095/3160830 |
 |1N4148WTPMSCT-ND Diode| $0.03816 | https://www.digikey.com/en/products/detail/micro-commercial-co/1N4148W-TP/717196 |
@@ -120,6 +119,15 @@ The numpad module is responsible for numerical input, as well as mathmatical ope
 
 NumPad BOM
 ----------
+
+Keyboard module PCB manufactured by PCBway's PCB fabrication service. The following table details the components used within the module, along with information on pricing for the actual PCB.
+
+| Component | Cost | Link |
+| --- | --- | --- |
+| KSA1M331LFT SPST-NO | $0.91 | https://www.digikey.com/en/products/detail/c-k/KSA1M331LFT/1003897 |
+| Tactile Cap Oval (BLACK) | $0.39 | https://www.digikey.com/en/products/detail/c-k/BTNK0390/559405 |
+| FPC 10Pin Connector | $1.13 | https://www.digikey.com/en/products/detail/molex/5034801000/2356624 |
+|1N4148WTPMSCT-ND Diode| $0.03816 | https://www.digikey.com/en/products/detail/micro-commercial-co/1N4148W-TP/717196 |
 
 Joystick/D-PAD Module
 =====================
