@@ -85,9 +85,21 @@ The keyboard module is responsible for alphabetical input from the user. This is
 |:--:|
 | *3D Render of Keyboard Module PCB.* |
 
+Keyboard BOM
+------------
 
 
+NumPad Module
+=============
 
 
+NumPad BOM
+----------
+
+Joystick/D-PAD Module
+=====================
+
+Joystick BOM
+------------
 
 [^1]: https://www.pcbway.com/rapid-prototyping/3D-Printing/3D-Printing-SLA.html
