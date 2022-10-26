@@ -29,6 +29,10 @@ Case
 |:--:|
 | *Bottom Case for Calculator* |
 
+![Case Bottom with PCB](Fusion360_MODEL/Images/PCB_Housing.png)
+|:--:|
+| *Bottom Case for Calculator with PCB's included* |
+
 ### Case Top
 ![Case Top](Fusion360_MODEL/Images/Top_Case.png)
 |:--:|
