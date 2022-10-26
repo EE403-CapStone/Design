@@ -73,9 +73,13 @@ Keyboard Module
 
 The keyboard module is responsible for alphabetical input from the user. This is handled by a full qwerty keyboard, in addition to other keys aswell.
 
-![KeybaordModule Schmatic](KiCAD_PCB/Images/Keyboard_Module_Schematic.png)
+![Keybaord Module Schmatic](KiCAD_PCB/Images/Keyboard_Module_Schematic.png)
 |:--:|
 | *Keyboard Module KiCAD Schmeatic.* |
+
+![Keybaord Module PCB](KiCAD_PCB/Images/Keyboard_Module_PCB.png)
+|:--:|
+| *Keyboard Module PCB Routing and Component Placement.* |
 
 
 
