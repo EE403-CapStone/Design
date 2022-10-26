@@ -85,7 +85,7 @@ The keyboard module is responsible for alphabetical input from the user. This is
 |:--:|
 | *3D Render of Keyboard Module PCB.* |
 
-Keyboard BOM
+Keyboard Module BOM
 ------------
 
 Keyboard module PCB manufactured by PCBway's PCB fabrication service. The following table details the components used within the module, along with information on pricing for the actual PCB.
