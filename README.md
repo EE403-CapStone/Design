@@ -16,8 +16,8 @@ The following designs are rough ideations of the possible calculator configurati
 ## Keyboard 
 
 ###### RP2040 Board
-| --- | --- | --- |
 | Component | Cost | Link |
+| --- | --- | --- |
 | RP2040 Stamp | $12.00 | https://www.tindie.com/products/arturo182/rp2040-stamp/ |
 
 ###### USB Micro B
