@@ -30,6 +30,10 @@ Case
 
 Mocked up in AutoCAD to determine layout, espcially in regards to PCB orientation and configuration. Exported as a dxf, and utilized to build enclosure in Fusion360 from this initial sketching. All dimensions for the Fusion360 model determined from this intial sketch.
 
+![Outline Comparision](Fusion360_MODEL/Images/Outline_Compare.png)
+|:--:| 
+| *Comparision between the initial 2D AutoCAD sketch, and the finalized model in Fusion360.* |
+
 ## Fusion360 Models
 ### Case Bottom
 ![Case Bottom](Fusion360_MODEL/Images/Bottom_Case_2.png)
