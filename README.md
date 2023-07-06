@@ -85,6 +85,10 @@ The keyboard module is responsible for alphabetical input from the user. This is
 |:--:|
 | *3D Render of Keyboard Module PCB.* |
 
+![Keyboard Module 3D PCB 2](![Slide10](https://github.com/EE403-CapStone/Design/assets/75147239/07458c4b-fc36-4fd2-9053-59436407b715))
+|:--:|
+| *2nd 3D Render of Keyboard Module PCB.* |
+
 Keyboard BOM
 ------------
 
